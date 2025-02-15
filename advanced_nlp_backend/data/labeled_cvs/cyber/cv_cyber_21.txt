@@ -1,0 +1,23 @@
+Nathalie Blanc
+9 Rue du Pont, 33000 Bordeaux - 06.12.34.56.78 - cvmail@free.fr
+
+FORMATION
+Licence Informatique - Université de Rennes (2019-2022)
+
+
+EXPÉRIENCES PROFESSIONNELLES
+Alternance Cyberdefense - Orange Cyberdefense (2023 - 2024)
+- Tests d’intrusion sur applications web
+- Recherche de vulnérabilités
+- Gestion des alertes SOC
+
+OBJECTIF
+Mon objectif est de rejoindre une équipe SOC pour analyser et répondre aux menaces en temps réel.
+
+COMPÉTENCES
+- Langages : Python, Bash, C, Powershell
+- Protocoles : TCP/IP, SSL/TLS, SSH, DNS
+- Sécurité offensive : Pentesting, Reverse Engineering
+
+PROJETS
+Analyse forensic d’un malware (Reverse Engineering, IDA Pro)

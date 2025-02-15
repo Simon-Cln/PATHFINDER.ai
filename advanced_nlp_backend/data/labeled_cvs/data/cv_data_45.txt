@@ -1,0 +1,21 @@
+Emilie Garnier
+5 Place de la Gare, 31000 Toulouse - 07.98.76.54.32 - pro@yahoo.fr - https://github.com/candidat123
+
+FORMATION
+Licence Mathématiques & Informatique - Université de Lille (2020-2023)
+
+EXPÉRIENCES PROFESSIONNELLES
+Projet Freelance - Data Mining (2022)
+- Scraping et nettoyage de données web
+- Mise en place d’un pipeline ETL
+
+OBJECTIF
+Mon objectif est de créer de la valeur à partir de données massives pour améliorer la prise de décision.
+
+COMPÉTENCES
+- Outils : TensorFlow, PyTorch, Spark, Hadoop, Tableau
+- Data engineering : pipelines ETL, orchestrations (Airflow)
+- Langages : Python, R, SQL
+
+PROJETS
+Analyse exploratoire et visualisation de données clients (Pandas, Matplotlib)

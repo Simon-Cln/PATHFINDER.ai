@@ -1,0 +1,22 @@
+Arthur Leroy
+12 Rue de la Paix, 75002 Paris - 07.22.33.44.55 - personnel@outlook.com
+
+FORMATION
+Master Ingénierie Logicielle - Université de Grenoble (2023-2025)
+Conception orientée objet, architectures distribuées
+
+EXPÉRIENCES PROFESSIONNELLES
+Projet Freelance - Création d’une application mobile (2022)
+- Stack Flutter / Firebase
+- Authentification et push notifications
+
+OBJECTIF
+Mon objectif est de rejoindre une équipe agile pour développer des solutions innovantes.
+
+COMPÉTENCES
+- Outils : Docker, Kubernetes, Git, Jenkins
+- Méthodes : Agile/Scrum, TDD, Clean Code
+- Frameworks : Spring Boot, Django, React, Node.js
+
+PROJETS
+Application mobile cross-platform (Flutter, Firebase)

@@ -1,0 +1,22 @@
+Paul Roger
+18 Avenue de Lyon, 69003 Lyon - 06.12.34.56.78 - personnel@outlook.com - https://www.linkedin.com/in/professionnelxyz
+
+FORMATION
+Master 2 - Cybersécurité - EFREI Paris (2023-2025)
+Sécurité des systèmes, cryptographie, pentesting, forensic
+
+EXPÉRIENCES PROFESSIONNELLES
+Mission Freelance - Consultant Sécurité (2022)
+- Hardening serveurs Linux
+- Configuration pare-feu et IDS
+
+OBJECTIF
+En dernière année de Master Cybersécurité, je cherche un stage de fin d’études pour mettre en pratique mes compétences en sécurité offensive et défensive.
+
+COMPÉTENCES
+- Sécurité défensive : Hardening, SOC, SIEM
+- Sécurité offensive : Pentesting, Reverse Engineering
+- Outils : Metasploit, Wireshark, Burp Suite, Splunk, Nessus
+
+PROJETS
+Simulation d'attaques sur un réseau virtualisé (Kali Linux, Snort)

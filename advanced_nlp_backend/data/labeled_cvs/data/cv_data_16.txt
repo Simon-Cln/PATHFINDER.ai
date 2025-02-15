@@ -1,0 +1,22 @@
+Arthur Leroy
+18 Avenue de Lyon, 69003 Lyon - 07.22.33.44.55 - cvmail@free.fr
+
+FORMATION
+Licence Mathématiques & Informatique - Université de Lille (2020-2023)
+
+EXPÉRIENCES PROFESSIONNELLES
+Stage Data Analyst - Capgemini (06/2024 - 12/2024)
+- Analyse de gros volumes de données (Spark, Hadoop)
+- Création de dashboards Power BI
+- Optimisation de requêtes SQL
+
+OBJECTIF
+Je souhaite développer des solutions d’IA en production et optimiser les workflows analytiques.
+
+COMPÉTENCES
+- Modélisation : régression, classification, clustering
+- Data engineering : pipelines ETL, orchestrations (Airflow)
+- Outils : TensorFlow, PyTorch, Spark, Hadoop, Tableau
+
+PROJETS
+Développement d'un modèle de classification d'images (CNN) pour la détection de défauts

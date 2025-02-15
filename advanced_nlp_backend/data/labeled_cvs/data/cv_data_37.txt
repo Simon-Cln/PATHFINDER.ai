@@ -1,0 +1,23 @@
+Lucas Bernard
+18 Avenue de Lyon, 69003 Lyon - 07.98.76.54.32 - pro@yahoo.fr - https://www.linkedin.com/in/professionnelxyz
+
+FORMATION
+Bachelor Informatique - École 42 (2019-2022)
+
+
+EXPÉRIENCES PROFESSIONNELLES
+Stage Data Analyst - Capgemini (06/2024 - 12/2024)
+- Analyse de gros volumes de données (Spark, Hadoop)
+- Création de dashboards Power BI
+- Optimisation de requêtes SQL
+
+OBJECTIF
+Recherche un stage de fin d’études en Data Science pour appliquer mes compétences en machine learning et data engineering.
+
+COMPÉTENCES
+- Data engineering : pipelines ETL, orchestrations (Airflow)
+- Outils : TensorFlow, PyTorch, Spark, Hadoop, Tableau
+- Langages : Python, R, SQL
+
+PROJETS
+Analyse exploratoire et visualisation de données clients (Pandas, Matplotlib)

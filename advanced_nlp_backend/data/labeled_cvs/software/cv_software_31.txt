@@ -1,0 +1,23 @@
+Lucas Bernard
+75 Rue Saint-Michel, 13006 Marseille - 06.12.34.56.78 - cvmail@free.fr - https://github.com/candidat123
+
+FORMATION
+Master Ingénierie Logicielle - Université de Grenoble (2023-2025)
+Conception orientée objet, architectures distribuées
+
+EXPÉRIENCES PROFESSIONNELLES
+Stage Développeur Full-Stack - Société Générale (06/2024 - 12/2024)
+- Développement d’API REST en Java Spring
+- Frontend en React.js
+- Mise en place CI/CD (Jenkins)
+
+OBJECTIF
+Cherche un stage de fin d'études pour consolider mes compétences Full-Stack et en DevOps.
+
+COMPÉTENCES
+- Langages : Java, C++, Python, JavaScript
+- Frameworks : Spring Boot, Django, React, Node.js
+- Outils : Docker, Kubernetes, Git, Jenkins
+
+PROJETS
+Développement d'un microservice de paiement (Java Spring, Docker, MySQL)

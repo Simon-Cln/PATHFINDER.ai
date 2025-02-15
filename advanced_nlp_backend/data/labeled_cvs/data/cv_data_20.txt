@@ -1,0 +1,21 @@
+Marie Dubois
+9 Rue du Pont, 33000 Bordeaux - 06.12.34.56.78 - cvmail@free.fr
+
+FORMATION
+Licence Mathématiques & Informatique - Université de Lille (2020-2023)
+
+EXPÉRIENCES PROFESSIONNELLES
+Projet Freelance - Data Mining (2022)
+- Scraping et nettoyage de données web
+- Mise en place d’un pipeline ETL
+
+OBJECTIF
+Recherche un stage de fin d’études en Data Science pour appliquer mes compétences en machine learning et data engineering.
+
+COMPÉTENCES
+- Modélisation : régression, classification, clustering
+- Langages : Python, R, SQL
+- Data engineering : pipelines ETL, orchestrations (Airflow)
+
+PROJETS
+Développement d'un modèle de classification d'images (CNN) pour la détection de défauts

@@ -1,0 +1,23 @@
+Sophie Moreau
+18 Avenue de Lyon, 69003 Lyon - 07.98.76.54.32 - cvmail@free.fr
+
+FORMATION
+Licence Informatique - Université de Rennes (2019-2022)
+
+
+EXPÉRIENCES PROFESSIONNELLES
+Alternance Cyberdefense - Orange Cyberdefense (2023 - 2024)
+- Tests d’intrusion sur applications web
+- Recherche de vulnérabilités
+- Gestion des alertes SOC
+
+OBJECTIF
+En dernière année de Master Cybersécurité, je cherche un stage de fin d’études pour mettre en pratique mes compétences en sécurité offensive et défensive.
+
+COMPÉTENCES
+- Protocoles : TCP/IP, SSL/TLS, SSH, DNS
+- Sécurité défensive : Hardening, SOC, SIEM
+- Sécurité offensive : Pentesting, Reverse Engineering
+
+PROJETS
+Analyse forensic d’un malware (Reverse Engineering, IDA Pro)

@@ -1,0 +1,22 @@
+Arthur Leroy
+12 Rue de la Paix, 75002 Paris - 07.98.76.54.32 - example@hotmail.fr
+
+FORMATION
+Master 2 - Data Science - Université Paris-Saclay (2023-2025)
+Machine Learning, Big Data, statistiques avancées
+
+EXPÉRIENCES PROFESSIONNELLES
+Projet Freelance - Data Mining (2022)
+- Scraping et nettoyage de données web
+- Mise en place d’un pipeline ETL
+
+OBJECTIF
+Recherche un stage de fin d’études en Data Science pour appliquer mes compétences en machine learning et data engineering.
+
+COMPÉTENCES
+- Langages : Python, R, SQL
+- Data engineering : pipelines ETL, orchestrations (Airflow)
+- Modélisation : régression, classification, clustering
+
+PROJETS
+Développement d'un modèle de classification d'images (CNN) pour la détection de défauts

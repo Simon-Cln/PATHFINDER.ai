@@ -1,0 +1,23 @@
+Julien Lefevre
+22 Boulevard de Strasbourg, 67000 Strasbourg - 07.98.76.54.32 - personnel@outlook.com
+
+FORMATION
+Master Ingénierie Logicielle - Université de Grenoble (2023-2025)
+Conception orientée objet, architectures distribuées
+
+EXPÉRIENCES PROFESSIONNELLES
+Alternance Ingénieur Logiciel - Thales (2023 - 2024)
+- Applications C++ temps réel
+- Docker, Kubernetes, microservices
+- Tests unitaires et intégration continue
+
+OBJECTIF
+Souhaite participer au développement d’applications web complexes et scalables.
+
+COMPÉTENCES
+- Langages : Java, C++, Python, JavaScript
+- Méthodes : Agile/Scrum, TDD, Clean Code
+- Outils : Docker, Kubernetes, Git, Jenkins
+
+PROJETS
+Développement d'un microservice de paiement (Java Spring, Docker, MySQL)

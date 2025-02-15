@@ -1,0 +1,23 @@
+Emilie Garnier
+12 Rue de la Paix, 75002 Paris - 07.22.33.44.55 - cvmail@free.fr - https://github.com/candidat123
+
+FORMATION
+Bachelor Développement Web - EEMI (2019-2022)
+
+
+EXPÉRIENCES PROFESSIONNELLES
+Stage Développeur Full-Stack - Société Générale (06/2024 - 12/2024)
+- Développement d’API REST en Java Spring
+- Frontend en React.js
+- Mise en place CI/CD (Jenkins)
+
+OBJECTIF
+Souhaite participer au développement d’applications web complexes et scalables.
+
+COMPÉTENCES
+- Méthodes : Agile/Scrum, TDD, Clean Code
+- Langages : Java, C++, Python, JavaScript
+- Outils : Docker, Kubernetes, Git, Jenkins
+
+PROJETS
+Développement d'un microservice de paiement (Java Spring, Docker, MySQL)

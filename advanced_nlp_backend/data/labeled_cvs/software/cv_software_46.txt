@@ -1,0 +1,21 @@
+Camille Petit
+75 Rue Saint-Michel, 13006 Marseille - 06.12.34.56.78 - pro@yahoo.fr - https://www.linkedin.com/in/professionnelxyz
+
+FORMATION
+Licence Informatique - Université de Bordeaux (2020-2023)
+
+EXPÉRIENCES PROFESSIONNELLES
+Projet Freelance - Création d’une application mobile (2022)
+- Stack Flutter / Firebase
+- Authentification et push notifications
+
+OBJECTIF
+Mon objectif est de rejoindre une équipe agile pour développer des solutions innovantes.
+
+COMPÉTENCES
+- Langages : Java, C++, Python, JavaScript
+- Frameworks : Spring Boot, Django, React, Node.js
+- Outils : Docker, Kubernetes, Git, Jenkins
+
+PROJETS
+Système de recommandation d’articles (Python, REST API)

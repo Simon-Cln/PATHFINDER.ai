@@ -1,0 +1,22 @@
+Arthur Leroy
+22 Boulevard de Strasbourg, 67000 Strasbourg - 06.89.12.45.67 - example@hotmail.fr
+
+FORMATION
+Master Ingénierie Logicielle - Université de Grenoble (2023-2025)
+Conception orientée objet, architectures distribuées
+
+EXPÉRIENCES PROFESSIONNELLES
+Projet Freelance - Création d’une application mobile (2022)
+- Stack Flutter / Firebase
+- Authentification et push notifications
+
+OBJECTIF
+Cherche un stage de fin d'études pour consolider mes compétences Full-Stack et en DevOps.
+
+COMPÉTENCES
+- Frameworks : Spring Boot, Django, React, Node.js
+- Outils : Docker, Kubernetes, Git, Jenkins
+- Langages : Java, C++, Python, JavaScript
+
+PROJETS
+Système de recommandation d’articles (Python, REST API)

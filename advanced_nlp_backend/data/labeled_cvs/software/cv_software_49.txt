@@ -1,0 +1,23 @@
+Lucas Bernard
+12 Rue de la Paix, 75002 Paris - 07.22.33.44.55 - example@hotmail.fr - https://www.linkedin.com/in/professionnelxyz
+
+FORMATION
+Master Ingénierie Logicielle - Université de Grenoble (2023-2025)
+Conception orientée objet, architectures distribuées
+
+EXPÉRIENCES PROFESSIONNELLES
+Alternance Ingénieur Logiciel - Thales (2023 - 2024)
+- Applications C++ temps réel
+- Docker, Kubernetes, microservices
+- Tests unitaires et intégration continue
+
+OBJECTIF
+Mon objectif est de rejoindre une équipe agile pour développer des solutions innovantes.
+
+COMPÉTENCES
+- Frameworks : Spring Boot, Django, React, Node.js
+- Outils : Docker, Kubernetes, Git, Jenkins
+- Langages : Java, C++, Python, JavaScript
+
+PROJETS
+Application mobile cross-platform (Flutter, Firebase)

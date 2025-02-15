@@ -1,0 +1,23 @@
+Paul Roger
+22 Boulevard de Strasbourg, 67000 Strasbourg - 06.55.44.12.90 - pro@yahoo.fr
+
+FORMATION
+Master 2 - Cybersécurité - EFREI Paris (2023-2025)
+Sécurité des systèmes, cryptographie, pentesting, forensic
+
+EXPÉRIENCES PROFESSIONNELLES
+Stage Analyste en Cybersécurité - Atos (06/2024 - 12/2024)
+- Audit de sécurité et pentesting
+- Mise en place de solutions SIEM
+- Analyse de logs et détection d’incidents
+
+OBJECTIF
+Je souhaite approfondir mes connaissances en pentesting et en threat intelligence au sein d’un grand groupe.
+
+COMPÉTENCES
+- Sécurité offensive : Pentesting, Reverse Engineering
+- Langages : Python, Bash, C, Powershell
+- Protocoles : TCP/IP, SSL/TLS, SSH, DNS
+
+PROJETS
+Analyse forensic d’un malware (Reverse Engineering, IDA Pro)

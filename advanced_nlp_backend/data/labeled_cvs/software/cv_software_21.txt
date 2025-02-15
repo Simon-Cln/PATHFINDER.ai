@@ -1,0 +1,23 @@
+Camille Petit
+5 Place de la Gare, 31000 Toulouse - 06.89.12.45.67 - cvmail@free.fr - https://www.linkedin.com/in/professionnelxyz
+
+FORMATION
+Bachelor Développement Web - EEMI (2019-2022)
+
+
+EXPÉRIENCES PROFESSIONNELLES
+Alternance Ingénieur Logiciel - Thales (2023 - 2024)
+- Applications C++ temps réel
+- Docker, Kubernetes, microservices
+- Tests unitaires et intégration continue
+
+OBJECTIF
+Souhaite participer au développement d’applications web complexes et scalables.
+
+COMPÉTENCES
+- Langages : Java, C++, Python, JavaScript
+- Outils : Docker, Kubernetes, Git, Jenkins
+- Méthodes : Agile/Scrum, TDD, Clean Code
+
+PROJETS
+Développement d'un microservice de paiement (Java Spring, Docker, MySQL)

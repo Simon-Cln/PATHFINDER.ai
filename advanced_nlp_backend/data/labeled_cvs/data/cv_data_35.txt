@@ -1,0 +1,22 @@
+Arthur Leroy
+18 Avenue de Lyon, 69003 Lyon - 06.89.12.45.67 - cvmail@free.fr
+
+FORMATION
+Master 2 - Data Science - Université Paris-Saclay (2023-2025)
+Machine Learning, Big Data, statistiques avancées
+
+EXPÉRIENCES PROFESSIONNELLES
+Projet Freelance - Data Mining (2022)
+- Scraping et nettoyage de données web
+- Mise en place d’un pipeline ETL
+
+OBJECTIF
+Recherche un stage de fin d’études en Data Science pour appliquer mes compétences en machine learning et data engineering.
+
+COMPÉTENCES
+- Modélisation : régression, classification, clustering
+- Outils : TensorFlow, PyTorch, Spark, Hadoop, Tableau
+- Langages : Python, R, SQL
+
+PROJETS
+Analyse exploratoire et visualisation de données clients (Pandas, Matplotlib)

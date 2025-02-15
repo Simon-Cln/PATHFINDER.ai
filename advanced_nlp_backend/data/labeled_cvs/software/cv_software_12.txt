@@ -1,0 +1,22 @@
+Arthur Leroy
+18 Avenue de Lyon, 69003 Lyon - 06.55.44.12.90 - example@hotmail.fr - https://github.com/candidat123
+
+FORMATION
+Master Ingénierie Logicielle - Université de Grenoble (2023-2025)
+Conception orientée objet, architectures distribuées
+
+EXPÉRIENCES PROFESSIONNELLES
+Projet Freelance - Création d’une application mobile (2022)
+- Stack Flutter / Firebase
+- Authentification et push notifications
+
+OBJECTIF
+Mon objectif est de rejoindre une équipe agile pour développer des solutions innovantes.
+
+COMPÉTENCES
+- Méthodes : Agile/Scrum, TDD, Clean Code
+- Outils : Docker, Kubernetes, Git, Jenkins
+- Frameworks : Spring Boot, Django, React, Node.js
+
+PROJETS
+Développement d'un microservice de paiement (Java Spring, Docker, MySQL)

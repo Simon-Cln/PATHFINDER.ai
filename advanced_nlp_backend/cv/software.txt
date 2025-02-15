@@ -1,0 +1,41 @@
+Etudiant en Software Engineering (M2 EFREI)
+
+Alexandre Dupont[Adresse] - [Téléphone] - [Email] - [LinkedIn/GitHub]
+
+FORMATION
+
+Master 2 - Software Engineering - EFREI Paris (2023-2025)
+
+Développement full-stack, architecture logicielle, DevOps, conception d'API
+
+Licence - Informatique - EFREI Paris (2020-2023)
+
+EXPÉRIENCES PROFESSIONNELLES
+
+Stage de M1 - Développeur Full-Stack - [Entreprise] (06/2024 - 12/2024)
+
+Développement d'une application web en React.js et Node.js
+
+Implémentation d'une API REST et gestion de la base de données (PostgreSQL)
+
+CI/CD et automatisation des tests
+
+OBJECTIFActuellement en dernière année de Master en Software Engineering, je suis à la recherche d'un stage de fin d’études dans le développement logiciel pour approfondir mes compétences en architecture applicative et cloud computing.
+
+COMPÉTENCES
+
+Langages : Java, Python, JavaScript, C++
+
+Frameworks : Spring Boot, React.js, Angular, Flask
+
+Bases de données : MySQL, PostgreSQL, MongoDB
+
+Outils : Docker, Kubernetes, Git, CI/CD
+
+Méthodologies : Agile, Scrum
+
+PROJETS
+
+Développement d'une plateforme de gestion de projets (React, Node.js, MongoDB)
+
+Application mobile de gestion des tâches (Flutter, Firebase)

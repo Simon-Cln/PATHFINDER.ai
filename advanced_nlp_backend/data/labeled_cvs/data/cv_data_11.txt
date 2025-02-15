@@ -1,0 +1,23 @@
+Lucas Bernard
+75 Rue Saint-Michel, 13006 Marseille - 06.89.12.45.67 - cvmail@free.fr - https://www.linkedin.com/in/candidat123
+
+FORMATION
+Master 2 - Data Science - Université Paris-Saclay (2023-2025)
+Machine Learning, Big Data, statistiques avancées
+
+EXPÉRIENCES PROFESSIONNELLES
+Alternance Data Scientist - BNP Paribas (2023 - 2024)
+- Modèles de prédiction de churn
+- Traitement du langage naturel (NLP)
+- Visualisation et reporting
+
+OBJECTIF
+Recherche un stage de fin d’études en Data Science pour appliquer mes compétences en machine learning et data engineering.
+
+COMPÉTENCES
+- Langages : Python, R, SQL
+- Modélisation : régression, classification, clustering
+- Outils : TensorFlow, PyTorch, Spark, Hadoop, Tableau
+
+PROJETS
+Analyse exploratoire et visualisation de données clients (Pandas, Matplotlib)

@@ -1,0 +1,22 @@
+Sophie Moreau
+18 Avenue de Lyon, 69003 Lyon - 07.22.33.44.55 - contact@gmail.com - https://github.com/candidat123
+
+FORMATION
+Bachelor Informatique - École 42 (2019-2022)
+
+
+EXPÉRIENCES PROFESSIONNELLES
+Projet Freelance - Data Mining (2022)
+- Scraping et nettoyage de données web
+- Mise en place d’un pipeline ETL
+
+OBJECTIF
+Je souhaite développer des solutions d’IA en production et optimiser les workflows analytiques.
+
+COMPÉTENCES
+- Langages : Python, R, SQL
+- Modélisation : régression, classification, clustering
+- Outils : TensorFlow, PyTorch, Spark, Hadoop, Tableau
+
+PROJETS
+Mise en place d'un pipeline Big Data (Kafka, Spark, HDFS)

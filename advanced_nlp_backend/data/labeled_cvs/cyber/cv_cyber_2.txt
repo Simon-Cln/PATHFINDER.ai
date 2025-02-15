@@ -1,0 +1,23 @@
+Jean Lambert
+22 Boulevard de Strasbourg, 67000 Strasbourg - 06.55.44.12.90 - example@hotmail.fr - https://github.com/candidat123
+
+FORMATION
+Licence Informatique - Université de Rennes (2019-2022)
+
+
+EXPÉRIENCES PROFESSIONNELLES
+Stage Analyste en Cybersécurité - Atos (06/2024 - 12/2024)
+- Audit de sécurité et pentesting
+- Mise en place de solutions SIEM
+- Analyse de logs et détection d’incidents
+
+OBJECTIF
+Je souhaite approfondir mes connaissances en pentesting et en threat intelligence au sein d’un grand groupe.
+
+COMPÉTENCES
+- Sécurité offensive : Pentesting, Reverse Engineering
+- Langages : Python, Bash, C, Powershell
+- Outils : Metasploit, Wireshark, Burp Suite, Splunk, Nessus
+
+PROJETS
+Simulation d'attaques sur un réseau virtualisé (Kali Linux, Snort)

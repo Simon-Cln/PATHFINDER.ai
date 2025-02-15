@@ -1,0 +1,23 @@
+Sophie Moreau
+5 Place de la Gare, 31000 Toulouse - 07.22.33.44.55 - pro@yahoo.fr - https://www.linkedin.com/in/candidat123
+
+FORMATION
+Master 2 - Cybersécurité - EFREI Paris (2023-2025)
+Sécurité des systèmes, cryptographie, pentesting, forensic
+
+EXPÉRIENCES PROFESSIONNELLES
+Stage Analyste en Cybersécurité - Atos (06/2024 - 12/2024)
+- Audit de sécurité et pentesting
+- Mise en place de solutions SIEM
+- Analyse de logs et détection d’incidents
+
+OBJECTIF
+Mon objectif est de rejoindre une équipe SOC pour analyser et répondre aux menaces en temps réel.
+
+COMPÉTENCES
+- Sécurité défensive : Hardening, SOC, SIEM
+- Sécurité offensive : Pentesting, Reverse Engineering
+- Protocoles : TCP/IP, SSL/TLS, SSH, DNS
+
+PROJETS
+Développement d'un honeypot pour la détection de cyberattaques (Python, ELK Stack)

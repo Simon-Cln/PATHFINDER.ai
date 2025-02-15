@@ -1,0 +1,23 @@
+Jean Lambert
+9 Rue du Pont, 33000 Bordeaux - 06.89.12.45.67 - pro@yahoo.fr - https://www.linkedin.com/in/candidat123
+
+FORMATION
+Master 2 - Data Science - Université Paris-Saclay (2023-2025)
+Machine Learning, Big Data, statistiques avancées
+
+EXPÉRIENCES PROFESSIONNELLES
+Stage Data Analyst - Capgemini (06/2024 - 12/2024)
+- Analyse de gros volumes de données (Spark, Hadoop)
+- Création de dashboards Power BI
+- Optimisation de requêtes SQL
+
+OBJECTIF
+Recherche un stage de fin d’études en Data Science pour appliquer mes compétences en machine learning et data engineering.
+
+COMPÉTENCES
+- Outils : TensorFlow, PyTorch, Spark, Hadoop, Tableau
+- Data engineering : pipelines ETL, orchestrations (Airflow)
+- Langages : Python, R, SQL
+
+PROJETS
+Analyse exploratoire et visualisation de données clients (Pandas, Matplotlib)

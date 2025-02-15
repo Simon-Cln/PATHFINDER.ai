@@ -1,0 +1,23 @@
+Nathalie Blanc
+5 Place de la Gare, 31000 Toulouse - 06.55.44.12.90 - personnel@outlook.com - https://www.linkedin.com/in/professionnelxyz
+
+FORMATION
+Master 2 - Cybersécurité - EFREI Paris (2023-2025)
+Sécurité des systèmes, cryptographie, pentesting, forensic
+
+EXPÉRIENCES PROFESSIONNELLES
+Alternance Cyberdefense - Orange Cyberdefense (2023 - 2024)
+- Tests d’intrusion sur applications web
+- Recherche de vulnérabilités
+- Gestion des alertes SOC
+
+OBJECTIF
+Mon objectif est de rejoindre une équipe SOC pour analyser et répondre aux menaces en temps réel.
+
+COMPÉTENCES
+- Sécurité défensive : Hardening, SOC, SIEM
+- Protocoles : TCP/IP, SSL/TLS, SSH, DNS
+- Sécurité offensive : Pentesting, Reverse Engineering
+
+PROJETS
+Simulation d'attaques sur un réseau virtualisé (Kali Linux, Snort)

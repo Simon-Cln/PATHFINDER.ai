@@ -1,0 +1,23 @@
+Julien Lefevre
+5 Place de la Gare, 31000 Toulouse - 06.89.12.45.67 - example@hotmail.fr
+
+FORMATION
+Bachelor Développement Web - EEMI (2019-2022)
+
+
+EXPÉRIENCES PROFESSIONNELLES
+Stage Développeur Full-Stack - Société Générale (06/2024 - 12/2024)
+- Développement d’API REST en Java Spring
+- Frontend en React.js
+- Mise en place CI/CD (Jenkins)
+
+OBJECTIF
+Souhaite participer au développement d’applications web complexes et scalables.
+
+COMPÉTENCES
+- Frameworks : Spring Boot, Django, React, Node.js
+- Outils : Docker, Kubernetes, Git, Jenkins
+- Langages : Java, C++, Python, JavaScript
+
+PROJETS
+Système de recommandation d’articles (Python, REST API)

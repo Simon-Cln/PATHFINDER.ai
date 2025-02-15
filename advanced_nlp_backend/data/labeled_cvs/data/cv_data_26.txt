@@ -1,0 +1,23 @@
+Julien Lefevre
+5 Place de la Gare, 31000 Toulouse - 06.55.44.12.90 - personnel@outlook.com - https://www.linkedin.com/in/professionnelxyz
+
+FORMATION
+Bachelor Informatique - École 42 (2019-2022)
+
+
+EXPÉRIENCES PROFESSIONNELLES
+Stage Data Analyst - Capgemini (06/2024 - 12/2024)
+- Analyse de gros volumes de données (Spark, Hadoop)
+- Création de dashboards Power BI
+- Optimisation de requêtes SQL
+
+OBJECTIF
+Je souhaite développer des solutions d’IA en production et optimiser les workflows analytiques.
+
+COMPÉTENCES
+- Modélisation : régression, classification, clustering
+- Langages : Python, R, SQL
+- Outils : TensorFlow, PyTorch, Spark, Hadoop, Tableau
+
+PROJETS
+Mise en place d'un pipeline Big Data (Kafka, Spark, HDFS)

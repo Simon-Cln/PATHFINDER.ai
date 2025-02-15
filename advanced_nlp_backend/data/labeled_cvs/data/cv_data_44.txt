@@ -1,0 +1,22 @@
+Julien Lefevre
+22 Boulevard de Strasbourg, 67000 Strasbourg - 07.22.33.44.55 - cvmail@free.fr - https://github.com/candidat123
+
+FORMATION
+Licence Mathématiques & Informatique - Université de Lille (2020-2023)
+
+EXPÉRIENCES PROFESSIONNELLES
+Alternance Data Scientist - BNP Paribas (2023 - 2024)
+- Modèles de prédiction de churn
+- Traitement du langage naturel (NLP)
+- Visualisation et reporting
+
+OBJECTIF
+Recherche un stage de fin d’études en Data Science pour appliquer mes compétences en machine learning et data engineering.
+
+COMPÉTENCES
+- Outils : TensorFlow, PyTorch, Spark, Hadoop, Tableau
+- Data engineering : pipelines ETL, orchestrations (Airflow)
+- Langages : Python, R, SQL
+
+PROJETS
+Mise en place d'un pipeline Big Data (Kafka, Spark, HDFS)

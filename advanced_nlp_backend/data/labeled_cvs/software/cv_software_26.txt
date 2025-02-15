@@ -1,0 +1,23 @@
+Sophie Moreau
+9 Rue du Pont, 33000 Bordeaux - 06.55.44.12.90 - example@hotmail.fr
+
+FORMATION
+Master Ingénierie Logicielle - Université de Grenoble (2023-2025)
+Conception orientée objet, architectures distribuées
+
+EXPÉRIENCES PROFESSIONNELLES
+Alternance Ingénieur Logiciel - Thales (2023 - 2024)
+- Applications C++ temps réel
+- Docker, Kubernetes, microservices
+- Tests unitaires et intégration continue
+
+OBJECTIF
+Cherche un stage de fin d'études pour consolider mes compétences Full-Stack et en DevOps.
+
+COMPÉTENCES
+- Langages : Java, C++, Python, JavaScript
+- Frameworks : Spring Boot, Django, React, Node.js
+- Méthodes : Agile/Scrum, TDD, Clean Code
+
+PROJETS
+Système de recommandation d’articles (Python, REST API)

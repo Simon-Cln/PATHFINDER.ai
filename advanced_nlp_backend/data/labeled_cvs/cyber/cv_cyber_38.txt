@@ -1,0 +1,23 @@
+Camille Petit
+9 Rue du Pont, 33000 Bordeaux - 07.98.76.54.32 - personnel@outlook.com - https://www.linkedin.com/in/candidat123
+
+FORMATION
+Master 2 - Cybersécurité - EFREI Paris (2023-2025)
+Sécurité des systèmes, cryptographie, pentesting, forensic
+
+EXPÉRIENCES PROFESSIONNELLES
+Stage Analyste en Cybersécurité - Atos (06/2024 - 12/2024)
+- Audit de sécurité et pentesting
+- Mise en place de solutions SIEM
+- Analyse de logs et détection d’incidents
+
+OBJECTIF
+En dernière année de Master Cybersécurité, je cherche un stage de fin d’études pour mettre en pratique mes compétences en sécurité offensive et défensive.
+
+COMPÉTENCES
+- Langages : Python, Bash, C, Powershell
+- Protocoles : TCP/IP, SSL/TLS, SSH, DNS
+- Sécurité défensive : Hardening, SOC, SIEM
+
+PROJETS
+Simulation d'attaques sur un réseau virtualisé (Kali Linux, Snort)

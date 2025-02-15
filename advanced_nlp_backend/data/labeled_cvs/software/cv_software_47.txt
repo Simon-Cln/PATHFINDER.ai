@@ -1,0 +1,22 @@
+Nathalie Blanc
+12 Rue de la Paix, 75002 Paris - 06.12.34.56.78 - cvmail@free.fr - https://github.com/candidat123
+
+FORMATION
+Bachelor Développement Web - EEMI (2019-2022)
+
+
+EXPÉRIENCES PROFESSIONNELLES
+Projet Freelance - Création d’une application mobile (2022)
+- Stack Flutter / Firebase
+- Authentification et push notifications
+
+OBJECTIF
+Souhaite participer au développement d’applications web complexes et scalables.
+
+COMPÉTENCES
+- Frameworks : Spring Boot, Django, React, Node.js
+- Outils : Docker, Kubernetes, Git, Jenkins
+- Langages : Java, C++, Python, JavaScript
+
+PROJETS
+Développement d'un microservice de paiement (Java Spring, Docker, MySQL)

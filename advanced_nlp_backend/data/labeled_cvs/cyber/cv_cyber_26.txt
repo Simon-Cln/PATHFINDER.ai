@@ -1,0 +1,22 @@
+Sophie Moreau
+22 Boulevard de Strasbourg, 67000 Strasbourg - 07.22.33.44.55 - pro@yahoo.fr
+
+FORMATION
+Master 2 - Cybersécurité - EFREI Paris (2023-2025)
+Sécurité des systèmes, cryptographie, pentesting, forensic
+
+EXPÉRIENCES PROFESSIONNELLES
+Mission Freelance - Consultant Sécurité (2022)
+- Hardening serveurs Linux
+- Configuration pare-feu et IDS
+
+OBJECTIF
+Je souhaite approfondir mes connaissances en pentesting et en threat intelligence au sein d’un grand groupe.
+
+COMPÉTENCES
+- Sécurité offensive : Pentesting, Reverse Engineering
+- Protocoles : TCP/IP, SSL/TLS, SSH, DNS
+- Langages : Python, Bash, C, Powershell
+
+PROJETS
+Simulation d'attaques sur un réseau virtualisé (Kali Linux, Snort)

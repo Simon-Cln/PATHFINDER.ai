@@ -1,0 +1,23 @@
+Lucas Bernard
+22 Boulevard de Strasbourg, 67000 Strasbourg - 07.22.33.44.55 - pro@yahoo.fr - https://github.com/candidat123
+
+FORMATION
+Licence Informatique - Université de Rennes (2019-2022)
+
+
+EXPÉRIENCES PROFESSIONNELLES
+Stage Analyste en Cybersécurité - Atos (06/2024 - 12/2024)
+- Audit de sécurité et pentesting
+- Mise en place de solutions SIEM
+- Analyse de logs et détection d’incidents
+
+OBJECTIF
+Je souhaite approfondir mes connaissances en pentesting et en threat intelligence au sein d’un grand groupe.
+
+COMPÉTENCES
+- Protocoles : TCP/IP, SSL/TLS, SSH, DNS
+- Langages : Python, Bash, C, Powershell
+- Outils : Metasploit, Wireshark, Burp Suite, Splunk, Nessus
+
+PROJETS
+Analyse forensic d’un malware (Reverse Engineering, IDA Pro)

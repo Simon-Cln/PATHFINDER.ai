@@ -1,0 +1,23 @@
+Arthur Leroy
+75 Rue Saint-Michel, 13006 Marseille - 07.22.33.44.55 - pro@yahoo.fr
+
+FORMATION
+Master 2 - Cybersécurité - EFREI Paris (2023-2025)
+Sécurité des systèmes, cryptographie, pentesting, forensic
+
+EXPÉRIENCES PROFESSIONNELLES
+Alternance Cyberdefense - Orange Cyberdefense (2023 - 2024)
+- Tests d’intrusion sur applications web
+- Recherche de vulnérabilités
+- Gestion des alertes SOC
+
+OBJECTIF
+En dernière année de Master Cybersécurité, je cherche un stage de fin d’études pour mettre en pratique mes compétences en sécurité offensive et défensive.
+
+COMPÉTENCES
+- Protocoles : TCP/IP, SSL/TLS, SSH, DNS
+- Outils : Metasploit, Wireshark, Burp Suite, Splunk, Nessus
+- Langages : Python, Bash, C, Powershell
+
+PROJETS
+Simulation d'attaques sur un réseau virtualisé (Kali Linux, Snort)

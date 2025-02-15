@@ -1,0 +1,23 @@
+Paul Roger
+22 Boulevard de Strasbourg, 67000 Strasbourg - 07.98.76.54.32 - contact@gmail.com - https://www.linkedin.com/in/professionnelxyz
+
+FORMATION
+Bachelor Informatique - École 42 (2019-2022)
+
+
+EXPÉRIENCES PROFESSIONNELLES
+Alternance Data Scientist - BNP Paribas (2023 - 2024)
+- Modèles de prédiction de churn
+- Traitement du langage naturel (NLP)
+- Visualisation et reporting
+
+OBJECTIF
+Mon objectif est de créer de la valeur à partir de données massives pour améliorer la prise de décision.
+
+COMPÉTENCES
+- Outils : TensorFlow, PyTorch, Spark, Hadoop, Tableau
+- Data engineering : pipelines ETL, orchestrations (Airflow)
+- Langages : Python, R, SQL
+
+PROJETS
+Développement d'un modèle de classification d'images (CNN) pour la détection de défauts

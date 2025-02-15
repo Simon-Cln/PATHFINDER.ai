@@ -1,0 +1,22 @@
+Paul Roger
+5 Place de la Gare, 31000 Toulouse - 07.22.33.44.55 - example@hotmail.fr - https://www.linkedin.com/in/professionnelxyz
+
+FORMATION
+Master Ingénierie Logicielle - Université de Grenoble (2023-2025)
+Conception orientée objet, architectures distribuées
+
+EXPÉRIENCES PROFESSIONNELLES
+Projet Freelance - Création d’une application mobile (2022)
+- Stack Flutter / Firebase
+- Authentification et push notifications
+
+OBJECTIF
+Cherche un stage de fin d'études pour consolider mes compétences Full-Stack et en DevOps.
+
+COMPÉTENCES
+- Méthodes : Agile/Scrum, TDD, Clean Code
+- Frameworks : Spring Boot, Django, React, Node.js
+- Langages : Java, C++, Python, JavaScript
+
+PROJETS
+Système de recommandation d’articles (Python, REST API)

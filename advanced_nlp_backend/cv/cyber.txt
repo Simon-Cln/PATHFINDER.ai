@@ -1,0 +1,39 @@
+Julien Lefevre[Adresse] - [Téléphone] - [Email] - [LinkedIn/GitHub]
+
+FORMATION
+
+Master 2 - Cybersécurité - EFREI Paris (2023-2025)
+
+Sécurité des systèmes, cryptographie, pentesting, forensic
+
+Licence - Informatique - EFREI Paris (2020-2023)
+
+EXPÉRIENCES PROFESSIONNELLES
+
+Stage de M1 - Analyste en Cybersécurité - [Entreprise] (06/2024 - 12/2024)
+
+Audit de sécurité et tests d'intrusion sur les applications web
+
+Implémentation de solutions SIEM et analyse des logs
+
+Détection et réponse aux incidents
+
+OBJECTIFEn dernière année de Master Cybersécurité, je cherche un stage de fin d’études pour mettre en pratique mes compétences en sécurité offensive et défensive dans un environnement stimulant.
+
+COMPÉTENCES
+
+Langages : Python, Bash, C
+
+Outils : Metasploit, Wireshark, Burp Suite, Splunk
+
+Protocoles : TCP/IP, SSL/TLS, SSH, DNS
+
+Sécurité offensive : Pentesting, Reverse Engineering
+
+Sécurité défensive : Hardening, SOC, SIEM
+
+PROJETS
+
+Simulation d'attaques sur un réseau virtualisé (Kali Linux, VMware, Snort)
+
+Développement d'un honeypot pour la détection de cyberattaques (Python, ELK Stack)

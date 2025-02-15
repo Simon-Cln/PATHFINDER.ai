@@ -1,0 +1,22 @@
+Camille Petit
+5 Place de la Gare, 31000 Toulouse - 06.55.44.12.90 - contact@gmail.com - https://www.linkedin.com/in/professionnelxyz
+
+FORMATION
+Licence Informatique - Université de Bordeaux (2020-2023)
+
+EXPÉRIENCES PROFESSIONNELLES
+Alternance Ingénieur Logiciel - Thales (2023 - 2024)
+- Applications C++ temps réel
+- Docker, Kubernetes, microservices
+- Tests unitaires et intégration continue
+
+OBJECTIF
+Mon objectif est de rejoindre une équipe agile pour développer des solutions innovantes.
+
+COMPÉTENCES
+- Langages : Java, C++, Python, JavaScript
+- Frameworks : Spring Boot, Django, React, Node.js
+- Outils : Docker, Kubernetes, Git, Jenkins
+
+PROJETS
+Développement d'un microservice de paiement (Java Spring, Docker, MySQL)

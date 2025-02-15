@@ -1,0 +1,22 @@
+Marie Dubois
+12 Rue de la Paix, 75002 Paris - 07.98.76.54.32 - example@hotmail.fr - https://www.linkedin.com/in/candidat123
+
+FORMATION
+Master 2 - Cybersécurité - EFREI Paris (2023-2025)
+Sécurité des systèmes, cryptographie, pentesting, forensic
+
+EXPÉRIENCES PROFESSIONNELLES
+Mission Freelance - Consultant Sécurité (2022)
+- Hardening serveurs Linux
+- Configuration pare-feu et IDS
+
+OBJECTIF
+Mon objectif est de rejoindre une équipe SOC pour analyser et répondre aux menaces en temps réel.
+
+COMPÉTENCES
+- Sécurité défensive : Hardening, SOC, SIEM
+- Outils : Metasploit, Wireshark, Burp Suite, Splunk, Nessus
+- Langages : Python, Bash, C, Powershell
+
+PROJETS
+Analyse forensic d’un malware (Reverse Engineering, IDA Pro)

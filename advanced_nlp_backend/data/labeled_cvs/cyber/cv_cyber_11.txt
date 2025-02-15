@@ -1,0 +1,22 @@
+Paul Roger
+75 Rue Saint-Michel, 13006 Marseille - 06.89.12.45.67 - cvmail@free.fr - https://www.linkedin.com/in/candidat123
+
+FORMATION
+Master 2 - Cybersécurité - EFREI Paris (2023-2025)
+Sécurité des systèmes, cryptographie, pentesting, forensic
+
+EXPÉRIENCES PROFESSIONNELLES
+Mission Freelance - Consultant Sécurité (2022)
+- Hardening serveurs Linux
+- Configuration pare-feu et IDS
+
+OBJECTIF
+Mon objectif est de rejoindre une équipe SOC pour analyser et répondre aux menaces en temps réel.
+
+COMPÉTENCES
+- Sécurité offensive : Pentesting, Reverse Engineering
+- Sécurité défensive : Hardening, SOC, SIEM
+- Langages : Python, Bash, C, Powershell
+
+PROJETS
+Simulation d'attaques sur un réseau virtualisé (Kali Linux, Snort)

@@ -1,0 +1,23 @@
+Emilie Garnier
+22 Boulevard de Strasbourg, 67000 Strasbourg - 06.89.12.45.67 - example@hotmail.fr - https://www.linkedin.com/in/professionnelxyz
+
+FORMATION
+Licence Informatique - Université de Rennes (2019-2022)
+
+
+EXPÉRIENCES PROFESSIONNELLES
+Stage Analyste en Cybersécurité - Atos (06/2024 - 12/2024)
+- Audit de sécurité et pentesting
+- Mise en place de solutions SIEM
+- Analyse de logs et détection d’incidents
+
+OBJECTIF
+En dernière année de Master Cybersécurité, je cherche un stage de fin d’études pour mettre en pratique mes compétences en sécurité offensive et défensive.
+
+COMPÉTENCES
+- Langages : Python, Bash, C, Powershell
+- Protocoles : TCP/IP, SSL/TLS, SSH, DNS
+- Sécurité offensive : Pentesting, Reverse Engineering
+
+PROJETS
+Simulation d'attaques sur un réseau virtualisé (Kali Linux, Snort)

@@ -1,0 +1,21 @@
+Jean Lambert
+5 Place de la Gare, 31000 Toulouse - 06.55.44.12.90 - example@hotmail.fr
+
+FORMATION
+Licence Mathématiques & Informatique - Université de Lille (2020-2023)
+
+EXPÉRIENCES PROFESSIONNELLES
+Projet Freelance - Data Mining (2022)
+- Scraping et nettoyage de données web
+- Mise en place d’un pipeline ETL
+
+OBJECTIF
+Je souhaite développer des solutions d’IA en production et optimiser les workflows analytiques.
+
+COMPÉTENCES
+- Data engineering : pipelines ETL, orchestrations (Airflow)
+- Langages : Python, R, SQL
+- Outils : TensorFlow, PyTorch, Spark, Hadoop, Tableau
+
+PROJETS
+Développement d'un modèle de classification d'images (CNN) pour la détection de défauts

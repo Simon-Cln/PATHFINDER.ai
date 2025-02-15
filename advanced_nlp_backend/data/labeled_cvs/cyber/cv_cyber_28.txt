@@ -1,0 +1,22 @@
+Alice Martin
+12 Rue de la Paix, 75002 Paris - 06.12.34.56.78 - personnel@outlook.com - https://www.linkedin.com/in/candidat123
+
+FORMATION
+Master 2 - Cybersécurité - EFREI Paris (2023-2025)
+Sécurité des systèmes, cryptographie, pentesting, forensic
+
+EXPÉRIENCES PROFESSIONNELLES
+Mission Freelance - Consultant Sécurité (2022)
+- Hardening serveurs Linux
+- Configuration pare-feu et IDS
+
+OBJECTIF
+Je souhaite approfondir mes connaissances en pentesting et en threat intelligence au sein d’un grand groupe.
+
+COMPÉTENCES
+- Outils : Metasploit, Wireshark, Burp Suite, Splunk, Nessus
+- Sécurité défensive : Hardening, SOC, SIEM
+- Langages : Python, Bash, C, Powershell
+
+PROJETS
+Simulation d'attaques sur un réseau virtualisé (Kali Linux, Snort)

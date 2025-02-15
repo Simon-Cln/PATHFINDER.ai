@@ -1,0 +1,23 @@
+Julien Lefevre
+22 Boulevard de Strasbourg, 67000 Strasbourg - 06.12.34.56.78 - cvmail@free.fr - https://github.com/candidat123
+
+FORMATION
+Master Cybersécurité - EPITA (2022-2024)
+Spécialisation : Sécurité offensive, Reverse Engineering, SIEM
+
+EXPÉRIENCES PROFESSIONNELLES
+Stage Analyste en Cybersécurité - Atos (06/2024 - 12/2024)
+- Audit de sécurité et pentesting
+- Mise en place de solutions SIEM
+- Analyse de logs et détection d’incidents
+
+OBJECTIF
+Je souhaite approfondir mes connaissances en pentesting et en threat intelligence au sein d’un grand groupe.
+
+COMPÉTENCES
+- Outils : Metasploit, Wireshark, Burp Suite, Splunk, Nessus
+- Langages : Python, Bash, C, Powershell
+- Protocoles : TCP/IP, SSL/TLS, SSH, DNS
+
+PROJETS
+Développement d'un honeypot pour la détection de cyberattaques (Python, ELK Stack)

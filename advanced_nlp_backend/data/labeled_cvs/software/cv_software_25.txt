@@ -1,0 +1,22 @@
+Arthur Leroy
+75 Rue Saint-Michel, 13006 Marseille - 06.89.12.45.67 - contact@gmail.com
+
+FORMATION
+Master Ingénierie Logicielle - Université de Grenoble (2023-2025)
+Conception orientée objet, architectures distribuées
+
+EXPÉRIENCES PROFESSIONNELLES
+Projet Freelance - Création d’une application mobile (2022)
+- Stack Flutter / Firebase
+- Authentification et push notifications
+
+OBJECTIF
+Souhaite participer au développement d’applications web complexes et scalables.
+
+COMPÉTENCES
+- Méthodes : Agile/Scrum, TDD, Clean Code
+- Outils : Docker, Kubernetes, Git, Jenkins
+- Frameworks : Spring Boot, Django, React, Node.js
+
+PROJETS
+Système de recommandation d’articles (Python, REST API)

@@ -1,0 +1,23 @@
+Lucas Bernard
+5 Place de la Gare, 31000 Toulouse - 06.12.34.56.78 - pro@yahoo.fr - https://www.linkedin.com/in/candidat123
+
+FORMATION
+Master 2 - Cybersécurité - EFREI Paris (2023-2025)
+Sécurité des systèmes, cryptographie, pentesting, forensic
+
+EXPÉRIENCES PROFESSIONNELLES
+Alternance Cyberdefense - Orange Cyberdefense (2023 - 2024)
+- Tests d’intrusion sur applications web
+- Recherche de vulnérabilités
+- Gestion des alertes SOC
+
+OBJECTIF
+Je souhaite approfondir mes connaissances en pentesting et en threat intelligence au sein d’un grand groupe.
+
+COMPÉTENCES
+- Langages : Python, Bash, C, Powershell
+- Protocoles : TCP/IP, SSL/TLS, SSH, DNS
+- Outils : Metasploit, Wireshark, Burp Suite, Splunk, Nessus
+
+PROJETS
+Simulation d'attaques sur un réseau virtualisé (Kali Linux, Snort)

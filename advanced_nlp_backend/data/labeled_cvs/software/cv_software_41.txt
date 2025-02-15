@@ -1,0 +1,23 @@
+Paul Roger
+5 Place de la Gare, 31000 Toulouse - 06.55.44.12.90 - example@hotmail.fr
+
+FORMATION
+Master Ingénierie Logicielle - Université de Grenoble (2023-2025)
+Conception orientée objet, architectures distribuées
+
+EXPÉRIENCES PROFESSIONNELLES
+Alternance Ingénieur Logiciel - Thales (2023 - 2024)
+- Applications C++ temps réel
+- Docker, Kubernetes, microservices
+- Tests unitaires et intégration continue
+
+OBJECTIF
+Mon objectif est de rejoindre une équipe agile pour développer des solutions innovantes.
+
+COMPÉTENCES
+- Langages : Java, C++, Python, JavaScript
+- Méthodes : Agile/Scrum, TDD, Clean Code
+- Outils : Docker, Kubernetes, Git, Jenkins
+
+PROJETS
+Développement d'un microservice de paiement (Java Spring, Docker, MySQL)

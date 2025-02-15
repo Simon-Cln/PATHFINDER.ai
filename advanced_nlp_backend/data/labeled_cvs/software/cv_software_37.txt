@@ -1,0 +1,23 @@
+Emilie Garnier
+5 Place de la Gare, 31000 Toulouse - 06.89.12.45.67 - contact@gmail.com - https://github.com/candidat123
+
+FORMATION
+Master Ingénierie Logicielle - Université de Grenoble (2023-2025)
+Conception orientée objet, architectures distribuées
+
+EXPÉRIENCES PROFESSIONNELLES
+Stage Développeur Full-Stack - Société Générale (06/2024 - 12/2024)
+- Développement d’API REST en Java Spring
+- Frontend en React.js
+- Mise en place CI/CD (Jenkins)
+
+OBJECTIF
+Cherche un stage de fin d'études pour consolider mes compétences Full-Stack et en DevOps.
+
+COMPÉTENCES
+- Outils : Docker, Kubernetes, Git, Jenkins
+- Méthodes : Agile/Scrum, TDD, Clean Code
+- Langages : Java, C++, Python, JavaScript
+
+PROJETS
+Développement d'un microservice de paiement (Java Spring, Docker, MySQL)

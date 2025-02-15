@@ -1,0 +1,23 @@
+Paul Roger
+12 Rue de la Paix, 75002 Paris - 07.98.76.54.32 - contact@gmail.com - https://github.com/candidat123
+
+FORMATION
+Bachelor Informatique - École 42 (2019-2022)
+
+
+EXPÉRIENCES PROFESSIONNELLES
+Alternance Data Scientist - BNP Paribas (2023 - 2024)
+- Modèles de prédiction de churn
+- Traitement du langage naturel (NLP)
+- Visualisation et reporting
+
+OBJECTIF
+Je souhaite développer des solutions d’IA en production et optimiser les workflows analytiques.
+
+COMPÉTENCES
+- Outils : TensorFlow, PyTorch, Spark, Hadoop, Tableau
+- Data engineering : pipelines ETL, orchestrations (Airflow)
+- Modélisation : régression, classification, clustering
+
+PROJETS
+Analyse exploratoire et visualisation de données clients (Pandas, Matplotlib)

@@ -1,0 +1,23 @@
+Jean Lambert
+5 Place de la Gare, 31000 Toulouse - 06.89.12.45.67 - example@hotmail.fr - https://github.com/candidat123
+
+FORMATION
+Master Cybersécurité - EPITA (2022-2024)
+Spécialisation : Sécurité offensive, Reverse Engineering, SIEM
+
+EXPÉRIENCES PROFESSIONNELLES
+Stage Analyste en Cybersécurité - Atos (06/2024 - 12/2024)
+- Audit de sécurité et pentesting
+- Mise en place de solutions SIEM
+- Analyse de logs et détection d’incidents
+
+OBJECTIF
+En dernière année de Master Cybersécurité, je cherche un stage de fin d’études pour mettre en pratique mes compétences en sécurité offensive et défensive.
+
+COMPÉTENCES
+- Sécurité offensive : Pentesting, Reverse Engineering
+- Langages : Python, Bash, C, Powershell
+- Protocoles : TCP/IP, SSL/TLS, SSH, DNS
+
+PROJETS
+Développement d'un honeypot pour la détection de cyberattaques (Python, ELK Stack)

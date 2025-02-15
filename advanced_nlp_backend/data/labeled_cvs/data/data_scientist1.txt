@@ -1,0 +1,32 @@
+Thomas Martin
+Data Scientist / ML Engineer
+
+FORMATION
+Master en Data Science et Intelligence Artificielle - École Polytechnique (2023-2025)
+• Deep Learning, Machine Learning, Statistiques
+• Traitement du Langage Naturel, Computer Vision
+• Big Data et Cloud Computing
+
+EXPÉRIENCE
+Stage Data Scientist - Amazon (2024)
+• Développement d'algorithmes de recommandation
+• Optimisation des modèles de prédiction
+• Stack: Python, TensorFlow, AWS
+
+Data Analyst - Orange (2023)
+• Analyse de données clients
+• Création de dashboards
+• Stack: Python, SQL, Tableau
+
+COMPÉTENCES
+• Langages: Python, R, SQL
+• ML/DL: TensorFlow, PyTorch, scikit-learn
+• Big Data: Spark, Hadoop
+• Cloud: AWS, GCP
+• Visualisation: Tableau, PowerBI
+• Statistiques et Math
+
+PROJETS
+• Système de détection d'anomalies (Deep Learning)
+• Classification d'images médicales (Computer Vision)
+• Analyse de sentiments (NLP)

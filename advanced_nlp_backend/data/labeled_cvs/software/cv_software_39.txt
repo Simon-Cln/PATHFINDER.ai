@@ -1,0 +1,21 @@
+Emilie Garnier
+18 Avenue de Lyon, 69003 Lyon - 06.12.34.56.78 - contact@gmail.com - https://github.com/candidat123
+
+FORMATION
+Licence Informatique - Université de Bordeaux (2020-2023)
+
+EXPÉRIENCES PROFESSIONNELLES
+Projet Freelance - Création d’une application mobile (2022)
+- Stack Flutter / Firebase
+- Authentification et push notifications
+
+OBJECTIF
+Cherche un stage de fin d'études pour consolider mes compétences Full-Stack et en DevOps.
+
+COMPÉTENCES
+- Frameworks : Spring Boot, Django, React, Node.js
+- Méthodes : Agile/Scrum, TDD, Clean Code
+- Langages : Java, C++, Python, JavaScript
+
+PROJETS
+Système de recommandation d’articles (Python, REST API)

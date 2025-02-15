@@ -1,0 +1,23 @@
+Julien Lefevre
+12 Rue de la Paix, 75002 Paris - 06.89.12.45.67 - example@hotmail.fr
+
+FORMATION
+Licence Informatique - Université de Rennes (2019-2022)
+
+
+EXPÉRIENCES PROFESSIONNELLES
+Alternance Cyberdefense - Orange Cyberdefense (2023 - 2024)
+- Tests d’intrusion sur applications web
+- Recherche de vulnérabilités
+- Gestion des alertes SOC
+
+OBJECTIF
+Mon objectif est de rejoindre une équipe SOC pour analyser et répondre aux menaces en temps réel.
+
+COMPÉTENCES
+- Langages : Python, Bash, C, Powershell
+- Protocoles : TCP/IP, SSL/TLS, SSH, DNS
+- Sécurité défensive : Hardening, SOC, SIEM
+
+PROJETS
+Simulation d'attaques sur un réseau virtualisé (Kali Linux, Snort)

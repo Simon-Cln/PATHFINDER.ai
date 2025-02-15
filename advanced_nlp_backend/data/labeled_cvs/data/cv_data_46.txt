@@ -1,0 +1,21 @@
+Emilie Garnier
+12 Rue de la Paix, 75002 Paris - 06.12.34.56.78 - cvmail@free.fr - https://www.linkedin.com/in/professionnelxyz
+
+FORMATION
+Licence Mathématiques & Informatique - Université de Lille (2020-2023)
+
+EXPÉRIENCES PROFESSIONNELLES
+Projet Freelance - Data Mining (2022)
+- Scraping et nettoyage de données web
+- Mise en place d’un pipeline ETL
+
+OBJECTIF
+Je souhaite développer des solutions d’IA en production et optimiser les workflows analytiques.
+
+COMPÉTENCES
+- Modélisation : régression, classification, clustering
+- Data engineering : pipelines ETL, orchestrations (Airflow)
+- Langages : Python, R, SQL
+
+PROJETS
+Développement d'un modèle de classification d'images (CNN) pour la détection de défauts

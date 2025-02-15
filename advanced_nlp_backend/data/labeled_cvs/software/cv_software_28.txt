@@ -1,0 +1,23 @@
+Paul Roger
+9 Rue du Pont, 33000 Bordeaux - 06.55.44.12.90 - pro@yahoo.fr - https://www.linkedin.com/in/candidat123
+
+FORMATION
+Master Ingénierie Logicielle - Université de Grenoble (2023-2025)
+Conception orientée objet, architectures distribuées
+
+EXPÉRIENCES PROFESSIONNELLES
+Stage Développeur Full-Stack - Société Générale (06/2024 - 12/2024)
+- Développement d’API REST en Java Spring
+- Frontend en React.js
+- Mise en place CI/CD (Jenkins)
+
+OBJECTIF
+Cherche un stage de fin d'études pour consolider mes compétences Full-Stack et en DevOps.
+
+COMPÉTENCES
+- Frameworks : Spring Boot, Django, React, Node.js
+- Méthodes : Agile/Scrum, TDD, Clean Code
+- Outils : Docker, Kubernetes, Git, Jenkins
+
+PROJETS
+Système de recommandation d’articles (Python, REST API)

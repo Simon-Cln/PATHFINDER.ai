@@ -1,0 +1,22 @@
+Nathalie Blanc
+12 Rue de la Paix, 75002 Paris - 06.12.34.56.78 - personnel@outlook.com - https://github.com/candidat123
+
+FORMATION
+Licence Informatique - Université de Bordeaux (2020-2023)
+
+EXPÉRIENCES PROFESSIONNELLES
+Stage Développeur Full-Stack - Société Générale (06/2024 - 12/2024)
+- Développement d’API REST en Java Spring
+- Frontend en React.js
+- Mise en place CI/CD (Jenkins)
+
+OBJECTIF
+Cherche un stage de fin d'études pour consolider mes compétences Full-Stack et en DevOps.
+
+COMPÉTENCES
+- Méthodes : Agile/Scrum, TDD, Clean Code
+- Frameworks : Spring Boot, Django, React, Node.js
+- Langages : Java, C++, Python, JavaScript
+
+PROJETS
+Application mobile cross-platform (Flutter, Firebase)

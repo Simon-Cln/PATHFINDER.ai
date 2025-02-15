@@ -1,0 +1,23 @@
+Nathalie Blanc
+18 Avenue de Lyon, 69003 Lyon - 06.55.44.12.90 - example@hotmail.fr - https://www.linkedin.com/in/professionnelxyz
+
+FORMATION
+Master Cybersécurité - EPITA (2022-2024)
+Spécialisation : Sécurité offensive, Reverse Engineering, SIEM
+
+EXPÉRIENCES PROFESSIONNELLES
+Alternance Cyberdefense - Orange Cyberdefense (2023 - 2024)
+- Tests d’intrusion sur applications web
+- Recherche de vulnérabilités
+- Gestion des alertes SOC
+
+OBJECTIF
+Je souhaite approfondir mes connaissances en pentesting et en threat intelligence au sein d’un grand groupe.
+
+COMPÉTENCES
+- Outils : Metasploit, Wireshark, Burp Suite, Splunk, Nessus
+- Langages : Python, Bash, C, Powershell
+- Protocoles : TCP/IP, SSL/TLS, SSH, DNS
+
+PROJETS
+Développement d'un honeypot pour la détection de cyberattaques (Python, ELK Stack)

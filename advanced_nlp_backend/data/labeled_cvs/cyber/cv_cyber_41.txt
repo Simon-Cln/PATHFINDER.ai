@@ -1,0 +1,22 @@
+Arthur Leroy
+9 Rue du Pont, 33000 Bordeaux - 06.55.44.12.90 - contact@gmail.com - https://www.linkedin.com/in/candidat123
+
+FORMATION
+Master 2 - Cybersécurité - EFREI Paris (2023-2025)
+Sécurité des systèmes, cryptographie, pentesting, forensic
+
+EXPÉRIENCES PROFESSIONNELLES
+Mission Freelance - Consultant Sécurité (2022)
+- Hardening serveurs Linux
+- Configuration pare-feu et IDS
+
+OBJECTIF
+Mon objectif est de rejoindre une équipe SOC pour analyser et répondre aux menaces en temps réel.
+
+COMPÉTENCES
+- Langages : Python, Bash, C, Powershell
+- Protocoles : TCP/IP, SSL/TLS, SSH, DNS
+- Sécurité offensive : Pentesting, Reverse Engineering
+
+PROJETS
+Analyse forensic d’un malware (Reverse Engineering, IDA Pro)

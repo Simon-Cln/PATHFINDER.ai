@@ -1,0 +1,22 @@
+Nathalie Blanc
+18 Avenue de Lyon, 69003 Lyon - 06.89.12.45.67 - example@hotmail.fr - https://github.com/candidat123
+
+FORMATION
+Master 2 - Cybersécurité - EFREI Paris (2023-2025)
+Sécurité des systèmes, cryptographie, pentesting, forensic
+
+EXPÉRIENCES PROFESSIONNELLES
+Mission Freelance - Consultant Sécurité (2022)
+- Hardening serveurs Linux
+- Configuration pare-feu et IDS
+
+OBJECTIF
+Je souhaite approfondir mes connaissances en pentesting et en threat intelligence au sein d’un grand groupe.
+
+COMPÉTENCES
+- Outils : Metasploit, Wireshark, Burp Suite, Splunk, Nessus
+- Protocoles : TCP/IP, SSL/TLS, SSH, DNS
+- Sécurité offensive : Pentesting, Reverse Engineering
+
+PROJETS
+Simulation d'attaques sur un réseau virtualisé (Kali Linux, Snort)

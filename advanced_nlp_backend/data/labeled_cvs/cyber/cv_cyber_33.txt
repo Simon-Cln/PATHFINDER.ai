@@ -1,0 +1,23 @@
+Alice Martin
+5 Place de la Gare, 31000 Toulouse - 07.98.76.54.32 - example@hotmail.fr - https://www.linkedin.com/in/professionnelxyz
+
+FORMATION
+Master Cybersécurité - EPITA (2022-2024)
+Spécialisation : Sécurité offensive, Reverse Engineering, SIEM
+
+EXPÉRIENCES PROFESSIONNELLES
+Alternance Cyberdefense - Orange Cyberdefense (2023 - 2024)
+- Tests d’intrusion sur applications web
+- Recherche de vulnérabilités
+- Gestion des alertes SOC
+
+OBJECTIF
+En dernière année de Master Cybersécurité, je cherche un stage de fin d’études pour mettre en pratique mes compétences en sécurité offensive et défensive.
+
+COMPÉTENCES
+- Protocoles : TCP/IP, SSL/TLS, SSH, DNS
+- Langages : Python, Bash, C, Powershell
+- Outils : Metasploit, Wireshark, Burp Suite, Splunk, Nessus
+
+PROJETS
+Simulation d'attaques sur un réseau virtualisé (Kali Linux, Snort)

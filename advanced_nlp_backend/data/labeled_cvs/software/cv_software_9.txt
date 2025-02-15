@@ -1,0 +1,22 @@
+Alice Martin
+18 Avenue de Lyon, 69003 Lyon - 06.89.12.45.67 - cvmail@free.fr - https://www.linkedin.com/in/candidat123
+
+FORMATION
+Master Ingénierie Logicielle - Université de Grenoble (2023-2025)
+Conception orientée objet, architectures distribuées
+
+EXPÉRIENCES PROFESSIONNELLES
+Projet Freelance - Création d’une application mobile (2022)
+- Stack Flutter / Firebase
+- Authentification et push notifications
+
+OBJECTIF
+Cherche un stage de fin d'études pour consolider mes compétences Full-Stack et en DevOps.
+
+COMPÉTENCES
+- Langages : Java, C++, Python, JavaScript
+- Méthodes : Agile/Scrum, TDD, Clean Code
+- Outils : Docker, Kubernetes, Git, Jenkins
+
+PROJETS
+Système de recommandation d’articles (Python, REST API)

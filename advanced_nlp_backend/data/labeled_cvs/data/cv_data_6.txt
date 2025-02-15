@@ -1,0 +1,23 @@
+Alice Martin
+22 Boulevard de Strasbourg, 67000 Strasbourg - 06.89.12.45.67 - personnel@outlook.com - https://www.linkedin.com/in/professionnelxyz
+
+FORMATION
+Master 2 - Data Science - Université Paris-Saclay (2023-2025)
+Machine Learning, Big Data, statistiques avancées
+
+EXPÉRIENCES PROFESSIONNELLES
+Alternance Data Scientist - BNP Paribas (2023 - 2024)
+- Modèles de prédiction de churn
+- Traitement du langage naturel (NLP)
+- Visualisation et reporting
+
+OBJECTIF
+Je souhaite développer des solutions d’IA en production et optimiser les workflows analytiques.
+
+COMPÉTENCES
+- Data engineering : pipelines ETL, orchestrations (Airflow)
+- Outils : TensorFlow, PyTorch, Spark, Hadoop, Tableau
+- Modélisation : régression, classification, clustering
+
+PROJETS
+Mise en place d'un pipeline Big Data (Kafka, Spark, HDFS)

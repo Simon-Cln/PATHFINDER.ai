@@ -1,0 +1,23 @@
+Camille Petit
+75 Rue Saint-Michel, 13006 Marseille - 06.12.34.56.78 - pro@yahoo.fr - https://github.com/candidat123
+
+FORMATION
+Bachelor Développement Web - EEMI (2019-2022)
+
+
+EXPÉRIENCES PROFESSIONNELLES
+Alternance Ingénieur Logiciel - Thales (2023 - 2024)
+- Applications C++ temps réel
+- Docker, Kubernetes, microservices
+- Tests unitaires et intégration continue
+
+OBJECTIF
+Cherche un stage de fin d'études pour consolider mes compétences Full-Stack et en DevOps.
+
+COMPÉTENCES
+- Frameworks : Spring Boot, Django, React, Node.js
+- Langages : Java, C++, Python, JavaScript
+- Méthodes : Agile/Scrum, TDD, Clean Code
+
+PROJETS
+Application mobile cross-platform (Flutter, Firebase)

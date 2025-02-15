@@ -1,0 +1,22 @@
+Sophie Moreau
+5 Place de la Gare, 31000 Toulouse - 06.89.12.45.67 - example@hotmail.fr - https://github.com/candidat123
+
+FORMATION
+Licence Informatique - Université de Bordeaux (2020-2023)
+
+EXPÉRIENCES PROFESSIONNELLES
+Stage Développeur Full-Stack - Société Générale (06/2024 - 12/2024)
+- Développement d’API REST en Java Spring
+- Frontend en React.js
+- Mise en place CI/CD (Jenkins)
+
+OBJECTIF
+Cherche un stage de fin d'études pour consolider mes compétences Full-Stack et en DevOps.
+
+COMPÉTENCES
+- Frameworks : Spring Boot, Django, React, Node.js
+- Langages : Java, C++, Python, JavaScript
+- Outils : Docker, Kubernetes, Git, Jenkins
+
+PROJETS
+Application mobile cross-platform (Flutter, Firebase)

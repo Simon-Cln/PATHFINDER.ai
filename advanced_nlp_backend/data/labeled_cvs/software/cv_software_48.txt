@@ -1,0 +1,21 @@
+Lucas Bernard
+22 Boulevard de Strasbourg, 67000 Strasbourg - 06.89.12.45.67 - example@hotmail.fr - https://www.linkedin.com/in/professionnelxyz
+
+FORMATION
+Licence Informatique - Université de Bordeaux (2020-2023)
+
+EXPÉRIENCES PROFESSIONNELLES
+Projet Freelance - Création d’une application mobile (2022)
+- Stack Flutter / Firebase
+- Authentification et push notifications
+
+OBJECTIF
+Mon objectif est de rejoindre une équipe agile pour développer des solutions innovantes.
+
+COMPÉTENCES
+- Frameworks : Spring Boot, Django, React, Node.js
+- Langages : Java, C++, Python, JavaScript
+- Méthodes : Agile/Scrum, TDD, Clean Code
+
+PROJETS
+Système de recommandation d’articles (Python, REST API)

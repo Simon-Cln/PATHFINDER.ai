@@ -1,0 +1,78 @@
+Le cloud computing permet de provisionner des ressources à la demande (IaaS, PaaS, SaaS).
+Les attaques par déni de service (DDoS) visent à surcharger les serveurs pour les rendre indisponibles.
+Le principe de défense en profondeur consiste à multiplier les couches de sécurité pour protéger un système.
+
+# Data Engineering
+Le TDD (Test Driven Development) consiste à écrire les tests avant le code de production.
+Apache Spark permet le traitement distribué de grandes masses de données.
+Le positional encoding permet aux Transformers de prendre en compte l'ordre des mots.
+L'architecture hexagonale (ports et adaptateurs) permet de découpler le domaine métier des détails techniques.
+L'Infrastructure as Code avec Terraform ou CloudFormation automatise le provisioning cloud.
+Les arbres de décision et forêts aléatoires sont appréciés pour leur interprétabilité et leur robustesse.
+Les WAF (Web Application Firewalls) protègent contre les attaques web comme les injections SQL et XSS.
+
+# Machine Learning
+Les algorithmes de clustering comme K-means et DBSCAN permettent de regrouper les données similaires sans supervision.
+L'inférence avec les LLMs nécessite souvent des techniques d'optimisation comme le knowledge distillation et le pruning.
+Les embeddings contextuels générés par BERT permettent de capturer le sens des mots en fonction de leur contexte.
+Les principes SOLID guident la conception de code orienté objet maintenable et évolutif.
+Les caches comme Redis réduisent la latence d'accès aux données fréquemment utilisées.
+
+# Deep Learning
+Les modèles foundation comme GPT-3 peuvent être fine-tunés sur des tâches spécifiques grâce au transfer learning.
+Kubernetes orchestre le déploiement et la scalabilité des containers en production.
+Les queues de messages découplent les producteurs des consommateurs.
+Les architectures serverless comme AWS Lambda permettent de s'abstraire de la gestion des serveurs.
+Les bases NoSQL comme MongoDB sont adaptées aux données non structurées.
+Les design patterns comme Factory, Observer et Strategy permettent de résoudre des problèmes récurrents.
+Les réseaux de neurones convolutifs (CNN) sont particulièrement efficaces pour l'analyse d'images et la vision par ordinateur.
+La réplication master-slave permet la haute disponibilité des bases de données.
+Le gradient boosting avec XGBoost ou LightGBM est très efficace pour les problèmes de régression et classification.
+
+# Llm And Transformers
+La réduction de dimensionnalité (PCA, t-SNE) permet de visualiser et analyser des données haute dimension.
+Les auto-encodeurs permettent d'apprendre des représentations compressées des données de manière non supervisée.
+Le streaming de données avec Kafka permet le traitement en temps réel.
+Les CDNs (Content Delivery Networks) rapprochent le contenu des utilisateurs.
+L'architecture Transformer utilise des couches d'attention multi-têtes pour capturer les dépendances à longue portée dans les séquences.
+L'attention multi-têtes permet de capturer différents aspects des relations entre les tokens.
+Le preprocessing des données inclut la normalisation, l'encodage des variables catégorielles et la gestion des valeurs manquantes.
+Le monitoring avec Prometheus et Grafana permet de suivre la santé des applications.
+Les honeypots attirent les attaquants pour étudier leurs techniques.
+Le concept de few-shot learning permet aux LLMs d'apprendre de nouvelles tâches avec peu d'exemples d'entraînement.
+Les data warehouses comme Snowflake optimisent les requêtes analytiques.
+La validation croisée est essentielle pour évaluer la performance des modèles et éviter le surapprentissage.
+Les microservices communiquent via des API REST ou gRPC et peuvent être déployés indépendamment.
+
+# System Design
+Les load balancers distribuent le trafic entre plusieurs instances d'une application.
+Les pipelines ETL extraient, transforment et chargent les données dans des entrepôts.
+Le blue-green deployment permet des mises à jour sans interruption de service.
+Les SIEM (Security Information and Event Management) centralisent la gestion des événements de sécurité.
+Les modèles foundation comme BERT peuvent être adaptés à de nombreuses tâches en NLP.
+Le principe de moindre privilège limite les droits d'accès au strict nécessaire.
+Delta Lake ajoute des fonctionnalités ACID aux data lakes.
+Le chiffrement asymétrique utilise une paire de clés publique/privée pour sécuriser les communications.
+Le CI/CD automatise les tests, l'intégration et le déploiement du code en production.
+Les métriques comme la précision, le rappel et le F1-score permettent d'évaluer les modèles de classification.
+Le sharding partitionne les données pour améliorer les performances.
+Les vulnérabilités zero-day sont des failles de sécurité non encore découvertes par les développeurs.
+Les VPCs (Virtual Private Cloud) isolent les ressources cloud dans des réseaux virtuels.
+Les techniques de régularisation comme le dropout et la batch normalization permettent de réduire le surapprentissage.
+
+# Cybersecurity
+
+# Cloud And Devops
+
+# Software Engineering
+Les réseaux récurrents (RNN, LSTM, GRU) sont adaptés au traitement de séquences temporelles et de texte.
+La scalabilité horizontale consiste à ajouter des machines pour augmenter la capacité.
+Les data lakes stockent les données brutes dans leur format d'origine pour une analyse future.
+Le pré-entraînement des LLMs se fait généralement sur d'immenses corpus de texte avec des objectifs comme le masquage de tokens.
+L'apprentissage par renforcement profond combine deep learning et RL pour apprendre des politiques optimales.
+Le deep learning nécessite une grande quantité de données d'entraînement et une puissance de calcul importante, souvent fournie par des GPUs.
+L'analyse forensique permet d'investiguer les incidents de sécurité après leur occurrence.
+Les containers Docker permettent d'encapsuler une application avec ses dépendances.
+Les modèles de type Transformer comme GPT et BERT ont révolutionné le traitement du langage naturel grâce à leur mécanisme d'attention.
+Les GANs (Generative Adversarial Networks) consistent en un générateur et un discriminateur qui s'entraînent mutuellement.
+Le phishing social engineering exploite les faiblesses humaines plutôt que techniques.

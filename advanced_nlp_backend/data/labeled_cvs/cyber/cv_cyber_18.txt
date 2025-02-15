@@ -1,0 +1,23 @@
+Paul Roger
+75 Rue Saint-Michel, 13006 Marseille - 07.22.33.44.55 - example@hotmail.fr - https://www.linkedin.com/in/professionnelxyz
+
+FORMATION
+Master 2 - Cybersécurité - EFREI Paris (2023-2025)
+Sécurité des systèmes, cryptographie, pentesting, forensic
+
+EXPÉRIENCES PROFESSIONNELLES
+Stage Analyste en Cybersécurité - Atos (06/2024 - 12/2024)
+- Audit de sécurité et pentesting
+- Mise en place de solutions SIEM
+- Analyse de logs et détection d’incidents
+
+OBJECTIF
+Mon objectif est de rejoindre une équipe SOC pour analyser et répondre aux menaces en temps réel.
+
+COMPÉTENCES
+- Outils : Metasploit, Wireshark, Burp Suite, Splunk, Nessus
+- Sécurité défensive : Hardening, SOC, SIEM
+- Protocoles : TCP/IP, SSL/TLS, SSH, DNS
+
+PROJETS
+Analyse forensic d’un malware (Reverse Engineering, IDA Pro)

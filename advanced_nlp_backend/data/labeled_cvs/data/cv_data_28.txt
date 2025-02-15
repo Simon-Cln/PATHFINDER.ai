@@ -1,0 +1,22 @@
+Lucas Bernard
+22 Boulevard de Strasbourg, 67000 Strasbourg - 06.89.12.45.67 - cvmail@free.fr - https://www.linkedin.com/in/professionnelxyz
+
+FORMATION
+Licence Mathématiques & Informatique - Université de Lille (2020-2023)
+
+EXPÉRIENCES PROFESSIONNELLES
+Stage Data Analyst - Capgemini (06/2024 - 12/2024)
+- Analyse de gros volumes de données (Spark, Hadoop)
+- Création de dashboards Power BI
+- Optimisation de requêtes SQL
+
+OBJECTIF
+Recherche un stage de fin d’études en Data Science pour appliquer mes compétences en machine learning et data engineering.
+
+COMPÉTENCES
+- Outils : TensorFlow, PyTorch, Spark, Hadoop, Tableau
+- Langages : Python, R, SQL
+- Modélisation : régression, classification, clustering
+
+PROJETS
+Développement d'un modèle de classification d'images (CNN) pour la détection de défauts

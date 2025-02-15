@@ -1,0 +1,23 @@
+Marie Dubois
+75 Rue Saint-Michel, 13006 Marseille - 07.98.76.54.32 - pro@yahoo.fr - https://www.linkedin.com/in/candidat123
+
+FORMATION
+Bachelor Développement Web - EEMI (2019-2022)
+
+
+EXPÉRIENCES PROFESSIONNELLES
+Alternance Ingénieur Logiciel - Thales (2023 - 2024)
+- Applications C++ temps réel
+- Docker, Kubernetes, microservices
+- Tests unitaires et intégration continue
+
+OBJECTIF
+Mon objectif est de rejoindre une équipe agile pour développer des solutions innovantes.
+
+COMPÉTENCES
+- Méthodes : Agile/Scrum, TDD, Clean Code
+- Frameworks : Spring Boot, Django, React, Node.js
+- Outils : Docker, Kubernetes, Git, Jenkins
+
+PROJETS
+Système de recommandation d’articles (Python, REST API)

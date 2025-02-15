@@ -1,0 +1,22 @@
+Alice Martin
+5 Place de la Gare, 31000 Toulouse - 06.12.34.56.78 - contact@gmail.com - https://github.com/candidat123
+
+FORMATION
+Bachelor Développement Web - EEMI (2019-2022)
+
+
+EXPÉRIENCES PROFESSIONNELLES
+Projet Freelance - Création d’une application mobile (2022)
+- Stack Flutter / Firebase
+- Authentification et push notifications
+
+OBJECTIF
+Cherche un stage de fin d'études pour consolider mes compétences Full-Stack et en DevOps.
+
+COMPÉTENCES
+- Outils : Docker, Kubernetes, Git, Jenkins
+- Méthodes : Agile/Scrum, TDD, Clean Code
+- Langages : Java, C++, Python, JavaScript
+
+PROJETS
+Application mobile cross-platform (Flutter, Firebase)

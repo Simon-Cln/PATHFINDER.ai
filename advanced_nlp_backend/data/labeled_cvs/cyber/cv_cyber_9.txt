@@ -1,0 +1,22 @@
+Emilie Garnier
+9 Rue du Pont, 33000 Bordeaux - 07.22.33.44.55 - pro@yahoo.fr - https://www.linkedin.com/in/professionnelxyz
+
+FORMATION
+Master Cybersécurité - EPITA (2022-2024)
+Spécialisation : Sécurité offensive, Reverse Engineering, SIEM
+
+EXPÉRIENCES PROFESSIONNELLES
+Mission Freelance - Consultant Sécurité (2022)
+- Hardening serveurs Linux
+- Configuration pare-feu et IDS
+
+OBJECTIF
+En dernière année de Master Cybersécurité, je cherche un stage de fin d’études pour mettre en pratique mes compétences en sécurité offensive et défensive.
+
+COMPÉTENCES
+- Sécurité défensive : Hardening, SOC, SIEM
+- Protocoles : TCP/IP, SSL/TLS, SSH, DNS
+- Sécurité offensive : Pentesting, Reverse Engineering
+
+PROJETS
+Simulation d'attaques sur un réseau virtualisé (Kali Linux, Snort)

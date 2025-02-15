@@ -1,0 +1,23 @@
+Arthur Leroy
+75 Rue Saint-Michel, 13006 Marseille - 06.12.34.56.78 - pro@yahoo.fr - https://github.com/candidat123
+
+FORMATION
+Bachelor Informatique - École 42 (2019-2022)
+
+
+EXPÉRIENCES PROFESSIONNELLES
+Alternance Data Scientist - BNP Paribas (2023 - 2024)
+- Modèles de prédiction de churn
+- Traitement du langage naturel (NLP)
+- Visualisation et reporting
+
+OBJECTIF
+Mon objectif est de créer de la valeur à partir de données massives pour améliorer la prise de décision.
+
+COMPÉTENCES
+- Langages : Python, R, SQL
+- Data engineering : pipelines ETL, orchestrations (Airflow)
+- Modélisation : régression, classification, clustering
+
+PROJETS
+Mise en place d'un pipeline Big Data (Kafka, Spark, HDFS)

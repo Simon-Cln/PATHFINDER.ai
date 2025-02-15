@@ -1,0 +1,59 @@
+Médéric ZHOU SUN +33 6 25 63 15 26 |  mederic.zhou.sun@efrei.net |  Paris, Île-de-France |  /mederic-zhousun
+
+Actuellement en Master 2 dans la Data & AI en école d’ingénieur, je recherche activement un stage de fin d’études d’une durée de 6 mois
+débutantenMars2025, entantqueDataScientist/DataAnalystchezuneentreprise. Ayantdel’expérienceàl’international, jesuispassionné
+par la Data Science à travers des analyses et des modèles de prévision pour résoudre des problèmes complexes.
+Skills
+
+Programmation Python (numpy, pandas, sklearn, nltk, pyspark), SQL et NoSQL, Java Scala
+Outils Git, Pack Office, PowerBI, Azure, Jupyter, Docker, Databricks, CI/CD
+Certifications Microsoft Certified : Azure Fundamentals, AWS Cloud Quest : Cloud Practitioner
+Langues Français (natif), Anglais (TOEIC 840), Chinois (C1)
+Soft Skills Adaptabilité, Autonome, Rigoureux, Sens de l’écoute, Curieux, Communication
+
+Projets
+Analyse de sentiments YouTube EFREI Paris Panthéon ASSAS
+DATA ANALYST, FRONT‑END DEVELOPER Juin 2023 ‑ Juillet 2023
+• Scanner d’avis via l’API sur notre site web pour les créateurs de contenu, incluant une prédiction des sentiments pour la prochaine vidéo
+• Modélisation des modèles : Logistic Regression, Naive Bayes, SVM, Random Forest et RNN (sklearn, keras) sur des données HuggingFace
+• Visualisations à travers des nuages de mots et de diagrammes pour les émotions dominantes avec les mots‑clés (nltk, wordcloud)
+Analyse du marché immobilier
+
+DATA ANALYST, DATA SCiENTiST Juin 2023 ‑ Juillet 2023
+• Analyse des valeurs foncières DVF de 2019 à 2022 sur le site du gouvernement pour prédire les prix de l’immobilier en fonction des features
+• Préparation et EDA du CSV : Fusion, valeurs manquantes, nouvelles variables, visualisations (pandas, numpy, matplotlib, seaborn)
+• Modélisation et évaluation (MSE, R²) des modèles Machine Learning : Random Forest, KNN, Lasso, Ridge, K‑means (sklearn, scipy)
+Diagnostic des fractures osseuses
+
+DATA SCiENTiST Septembre 2023 ‑ Octobre 2023
+• Analyse d’une radiographie médicale osseuse sur notre site web pour détecter les fractures
+• Conception d’un réseau de neurones CNN, avec des modèles pré‑entraînés (VGG16, ResNet50, InceptionV3) en Python (tensorflow, keras)
+• Prétraitement d’images avec OpenCV (redimensionnement, normalisation, transformations) pour améliorer la précision du modèle
+Expériences Professionnelles
+
+Laboratoire de Chongqing University Chongqing, Chine
+ÉTUDiANT CHERCHEUR iNTERNATiONAL Novembre 2023 ‑ Avril 2024
+• Formation sur la gestion des données : préparation, nettoyage, transformation et analyse des données pour garantir la qualité et la fiabilité
+• Étude et recherche sur les technologies de cryptage et des algorithmes des données privées
+• Algorithmes pertinents : Hash, Salt, HMAC, Symmetric Encryption, Signing, Asymmetric Encryption, Homomorphic Encryption (Paillier)
+• Creation d’un site web avec un login sécurisé (Hash), et un algorithme Paillier pour crypter et décrypter les messages envoyés et reçus
+
+FNAC Darty Paris, France
+ASSiSTANT MANAGER COMMERCiAL, VENDEUR Juillet 2022 ‑ Août 2022
+• Analyse des besoins clients, Suivi des KPI, Résolution des problèmes pour améliorer l’efficacité des ventes, Gestion en magasin
+
+Formations
+EFREI Paris Panthéon‑ASSAS Université Paris, France
+MASTER 2 ‑ PARCOURS iNGÉNiEUR DATA ET iNTELLiGENCE ARTiFiCiELLE Septembre 2020 ‑ Aujourd’hui
+
+• Cours pertinents : Neural Networks and Deep Learning, Convex Optimization, Scala, SQL and NoSQL, Cloud Computing, Reinforcement
+Learning, Chatbots and GenAI, Big Data Ecosystem, NLP, Machine Learning, Data Management and Ethics, Maths for DS, Data Visualization
+Concordia University Montréal, Canada
+SEMESTRE iNTERNATiONAL À L’ÉTRANGER Août 2022 ‑ Décembre 2023
+
+• Cours pertinents : Mathematics for Cryptography, Web, Java, Machine Learning, Gestion financière, BDD, Théorie des graphes
+
+Centres d’intérêts
+Piano La musique renforce la pensée analytique et la rigueur, au Conservatoire de Presles et en autodidacte 15 ans
+Tennis Sport de compétition au niveau départemental au TC Presles 12 ans
+Golf, Judo Sport en compétition départementale au Golf de l’Isle Adam, et au Judo Jujitsu Presles 8 ans

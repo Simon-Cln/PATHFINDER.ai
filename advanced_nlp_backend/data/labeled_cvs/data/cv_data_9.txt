@@ -1,0 +1,22 @@
+Camille Petit
+12 Rue de la Paix, 75002 Paris - 06.89.12.45.67 - pro@yahoo.fr - https://www.linkedin.com/in/candidat123
+
+FORMATION
+Licence Mathématiques & Informatique - Université de Lille (2020-2023)
+
+EXPÉRIENCES PROFESSIONNELLES
+Alternance Data Scientist - BNP Paribas (2023 - 2024)
+- Modèles de prédiction de churn
+- Traitement du langage naturel (NLP)
+- Visualisation et reporting
+
+OBJECTIF
+Mon objectif est de créer de la valeur à partir de données massives pour améliorer la prise de décision.
+
+COMPÉTENCES
+- Modélisation : régression, classification, clustering
+- Outils : TensorFlow, PyTorch, Spark, Hadoop, Tableau
+- Langages : Python, R, SQL
+
+PROJETS
+Mise en place d'un pipeline Big Data (Kafka, Spark, HDFS)

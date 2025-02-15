@@ -1,0 +1,22 @@
+Julien Lefevre
+9 Rue du Pont, 33000 Bordeaux - 06.89.12.45.67 - contact@gmail.com - https://github.com/candidat123
+
+FORMATION
+Master Ingénierie Logicielle - Université de Grenoble (2023-2025)
+Conception orientée objet, architectures distribuées
+
+EXPÉRIENCES PROFESSIONNELLES
+Projet Freelance - Création d’une application mobile (2022)
+- Stack Flutter / Firebase
+- Authentification et push notifications
+
+OBJECTIF
+Cherche un stage de fin d'études pour consolider mes compétences Full-Stack et en DevOps.
+
+COMPÉTENCES
+- Méthodes : Agile/Scrum, TDD, Clean Code
+- Langages : Java, C++, Python, JavaScript
+- Frameworks : Spring Boot, Django, React, Node.js
+
+PROJETS
+Développement d'un microservice de paiement (Java Spring, Docker, MySQL)

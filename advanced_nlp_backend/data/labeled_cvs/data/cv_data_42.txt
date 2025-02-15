@@ -1,0 +1,22 @@
+Nathalie Blanc
+18 Avenue de Lyon, 69003 Lyon - 07.22.33.44.55 - personnel@outlook.com
+
+FORMATION
+Bachelor Informatique - École 42 (2019-2022)
+
+
+EXPÉRIENCES PROFESSIONNELLES
+Projet Freelance - Data Mining (2022)
+- Scraping et nettoyage de données web
+- Mise en place d’un pipeline ETL
+
+OBJECTIF
+Recherche un stage de fin d’études en Data Science pour appliquer mes compétences en machine learning et data engineering.
+
+COMPÉTENCES
+- Data engineering : pipelines ETL, orchestrations (Airflow)
+- Modélisation : régression, classification, clustering
+- Langages : Python, R, SQL
+
+PROJETS
+Développement d'un modèle de classification d'images (CNN) pour la détection de défauts

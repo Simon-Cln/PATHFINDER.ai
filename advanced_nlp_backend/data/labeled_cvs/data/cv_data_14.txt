@@ -1,0 +1,22 @@
+Louise Dupont
+75 Rue Saint-Michel, 13006 Marseille - 06.12.34.56.78 - pro@yahoo.fr - https://www.linkedin.com/in/candidat123
+
+FORMATION
+Bachelor Informatique - École 42 (2019-2022)
+
+
+EXPÉRIENCES PROFESSIONNELLES
+Projet Freelance - Data Mining (2022)
+- Scraping et nettoyage de données web
+- Mise en place d’un pipeline ETL
+
+OBJECTIF
+Recherche un stage de fin d’études en Data Science pour appliquer mes compétences en machine learning et data engineering.
+
+COMPÉTENCES
+- Data engineering : pipelines ETL, orchestrations (Airflow)
+- Langages : Python, R, SQL
+- Modélisation : régression, classification, clustering
+
+PROJETS
+Développement d'un modèle de classification d'images (CNN) pour la détection de défauts

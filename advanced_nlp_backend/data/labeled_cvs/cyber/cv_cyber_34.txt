@@ -1,0 +1,23 @@
+Arthur Leroy
+18 Avenue de Lyon, 69003 Lyon - 06.12.34.56.78 - contact@gmail.com
+
+FORMATION
+Licence Informatique - Université de Rennes (2019-2022)
+
+
+EXPÉRIENCES PROFESSIONNELLES
+Alternance Cyberdefense - Orange Cyberdefense (2023 - 2024)
+- Tests d’intrusion sur applications web
+- Recherche de vulnérabilités
+- Gestion des alertes SOC
+
+OBJECTIF
+Je souhaite approfondir mes connaissances en pentesting et en threat intelligence au sein d’un grand groupe.
+
+COMPÉTENCES
+- Sécurité offensive : Pentesting, Reverse Engineering
+- Outils : Metasploit, Wireshark, Burp Suite, Splunk, Nessus
+- Langages : Python, Bash, C, Powershell
+
+PROJETS
+Développement d'un honeypot pour la détection de cyberattaques (Python, ELK Stack)

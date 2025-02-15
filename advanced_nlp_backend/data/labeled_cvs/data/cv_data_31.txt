@@ -1,0 +1,23 @@
+Jean Lambert
+12 Rue de la Paix, 75002 Paris - 07.98.76.54.32 - cvmail@free.fr - https://www.linkedin.com/in/professionnelxyz
+
+FORMATION
+Master 2 - Data Science - Université Paris-Saclay (2023-2025)
+Machine Learning, Big Data, statistiques avancées
+
+EXPÉRIENCES PROFESSIONNELLES
+Stage Data Analyst - Capgemini (06/2024 - 12/2024)
+- Analyse de gros volumes de données (Spark, Hadoop)
+- Création de dashboards Power BI
+- Optimisation de requêtes SQL
+
+OBJECTIF
+Mon objectif est de créer de la valeur à partir de données massives pour améliorer la prise de décision.
+
+COMPÉTENCES
+- Data engineering : pipelines ETL, orchestrations (Airflow)
+- Outils : TensorFlow, PyTorch, Spark, Hadoop, Tableau
+- Modélisation : régression, classification, clustering
+
+PROJETS
+Analyse exploratoire et visualisation de données clients (Pandas, Matplotlib)

@@ -1,0 +1,22 @@
+Camille Petit
+12 Rue de la Paix, 75002 Paris - 06.12.34.56.78 - contact@gmail.com - https://github.com/candidat123
+
+FORMATION
+Master 2 - Data Science - Université Paris-Saclay (2023-2025)
+Machine Learning, Big Data, statistiques avancées
+
+EXPÉRIENCES PROFESSIONNELLES
+Projet Freelance - Data Mining (2022)
+- Scraping et nettoyage de données web
+- Mise en place d’un pipeline ETL
+
+OBJECTIF
+Mon objectif est de créer de la valeur à partir de données massives pour améliorer la prise de décision.
+
+COMPÉTENCES
+- Langages : Python, R, SQL
+- Modélisation : régression, classification, clustering
+- Outils : TensorFlow, PyTorch, Spark, Hadoop, Tableau
+
+PROJETS
+Développement d'un modèle de classification d'images (CNN) pour la détection de défauts

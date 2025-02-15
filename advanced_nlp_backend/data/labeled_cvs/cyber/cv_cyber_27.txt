@@ -1,0 +1,23 @@
+Julien Lefevre
+9 Rue du Pont, 33000 Bordeaux - 06.89.12.45.67 - contact@gmail.com - https://github.com/candidat123
+
+FORMATION
+Licence Informatique - Université de Rennes (2019-2022)
+
+
+EXPÉRIENCES PROFESSIONNELLES
+Stage Analyste en Cybersécurité - Atos (06/2024 - 12/2024)
+- Audit de sécurité et pentesting
+- Mise en place de solutions SIEM
+- Analyse de logs et détection d’incidents
+
+OBJECTIF
+Mon objectif est de rejoindre une équipe SOC pour analyser et répondre aux menaces en temps réel.
+
+COMPÉTENCES
+- Sécurité offensive : Pentesting, Reverse Engineering
+- Langages : Python, Bash, C, Powershell
+- Sécurité défensive : Hardening, SOC, SIEM
+
+PROJETS
+Analyse forensic d’un malware (Reverse Engineering, IDA Pro)

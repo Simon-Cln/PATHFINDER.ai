@@ -1,0 +1,23 @@
+Arthur Leroy
+5 Place de la Gare, 31000 Toulouse - 07.22.33.44.55 - cvmail@free.fr
+
+FORMATION
+Bachelor Développement Web - EEMI (2019-2022)
+
+
+EXPÉRIENCES PROFESSIONNELLES
+Alternance Ingénieur Logiciel - Thales (2023 - 2024)
+- Applications C++ temps réel
+- Docker, Kubernetes, microservices
+- Tests unitaires et intégration continue
+
+OBJECTIF
+Cherche un stage de fin d'études pour consolider mes compétences Full-Stack et en DevOps.
+
+COMPÉTENCES
+- Langages : Java, C++, Python, JavaScript
+- Frameworks : Spring Boot, Django, React, Node.js
+- Méthodes : Agile/Scrum, TDD, Clean Code
+
+PROJETS
+Application mobile cross-platform (Flutter, Firebase)

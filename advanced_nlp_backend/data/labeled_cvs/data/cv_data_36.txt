@@ -1,0 +1,23 @@
+Alice Martin
+18 Avenue de Lyon, 69003 Lyon - 06.55.44.12.90 - personnel@outlook.com - https://www.linkedin.com/in/candidat123
+
+FORMATION
+Master 2 - Data Science - Université Paris-Saclay (2023-2025)
+Machine Learning, Big Data, statistiques avancées
+
+EXPÉRIENCES PROFESSIONNELLES
+Alternance Data Scientist - BNP Paribas (2023 - 2024)
+- Modèles de prédiction de churn
+- Traitement du langage naturel (NLP)
+- Visualisation et reporting
+
+OBJECTIF
+Mon objectif est de créer de la valeur à partir de données massives pour améliorer la prise de décision.
+
+COMPÉTENCES
+- Langages : Python, R, SQL
+- Outils : TensorFlow, PyTorch, Spark, Hadoop, Tableau
+- Modélisation : régression, classification, clustering
+
+PROJETS
+Analyse exploratoire et visualisation de données clients (Pandas, Matplotlib)

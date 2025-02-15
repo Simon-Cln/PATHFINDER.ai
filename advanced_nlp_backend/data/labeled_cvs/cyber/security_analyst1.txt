@@ -1,0 +1,32 @@
+Sophie Dubois
+Analyste en Cybersécurité
+
+FORMATION
+Master en Sécurité des Systèmes d'Information - EPITA (2022-2024)
+• Sécurité des réseaux et systèmes
+• Cryptographie appliquée
+• Analyse de malwares
+
+EXPÉRIENCE
+Stage SOC Analyst - Thales (2024)
+• Détection et analyse d'incidents de sécurité
+• Configuration de SIEM
+• Réponse aux incidents
+
+Security Analyst Junior - Orange Cyberdefense (2023)
+• Tests d'intrusion
+• Analyse de vulnérabilités
+• Rédaction de rapports de sécurité
+
+COMPÉTENCES
+• Sécurité: Nmap, Wireshark, Metasploit
+• SIEM: Splunk, ELK Stack
+• Systèmes: Linux, Windows Server
+• Scripting: Python, Bash
+• Certifications: CEH, CompTIA Security+
+• Réseaux et Protocoles
+
+PROJETS
+• Détection d'intrusion basée sur le ML
+• Audit de sécurité d'applications web
+• Analyse forensique de systèmes compromis

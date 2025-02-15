@@ -1,0 +1,23 @@
+Alice Martin
+75 Rue Saint-Michel, 13006 Marseille - 06.12.34.56.78 - personnel@outlook.com - https://www.linkedin.com/in/candidat123
+
+FORMATION
+Master 2 - Data Science - Université Paris-Saclay (2023-2025)
+Machine Learning, Big Data, statistiques avancées
+
+EXPÉRIENCES PROFESSIONNELLES
+Alternance Data Scientist - BNP Paribas (2023 - 2024)
+- Modèles de prédiction de churn
+- Traitement du langage naturel (NLP)
+- Visualisation et reporting
+
+OBJECTIF
+Je souhaite développer des solutions d’IA en production et optimiser les workflows analytiques.
+
+COMPÉTENCES
+- Langages : Python, R, SQL
+- Data engineering : pipelines ETL, orchestrations (Airflow)
+- Modélisation : régression, classification, clustering
+
+PROJETS
+Analyse exploratoire et visualisation de données clients (Pandas, Matplotlib)

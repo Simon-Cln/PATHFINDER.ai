@@ -1,0 +1,22 @@
+Camille Petit
+12 Rue de la Paix, 75002 Paris - 06.89.12.45.67 - personnel@outlook.com - https://github.com/candidat123
+
+FORMATION
+Licence Informatique - Université de Rennes (2019-2022)
+
+
+EXPÉRIENCES PROFESSIONNELLES
+Mission Freelance - Consultant Sécurité (2022)
+- Hardening serveurs Linux
+- Configuration pare-feu et IDS
+
+OBJECTIF
+Mon objectif est de rejoindre une équipe SOC pour analyser et répondre aux menaces en temps réel.
+
+COMPÉTENCES
+- Langages : Python, Bash, C, Powershell
+- Sécurité offensive : Pentesting, Reverse Engineering
+- Sécurité défensive : Hardening, SOC, SIEM
+
+PROJETS
+Simulation d'attaques sur un réseau virtualisé (Kali Linux, Snort)

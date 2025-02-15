@@ -1,0 +1,23 @@
+Camille Petit
+12 Rue de la Paix, 75002 Paris - 07.22.33.44.55 - example@hotmail.fr - https://www.linkedin.com/in/professionnelxyz
+
+FORMATION
+Bachelor Informatique - École 42 (2019-2022)
+
+
+EXPÉRIENCES PROFESSIONNELLES
+Stage Data Analyst - Capgemini (06/2024 - 12/2024)
+- Analyse de gros volumes de données (Spark, Hadoop)
+- Création de dashboards Power BI
+- Optimisation de requêtes SQL
+
+OBJECTIF
+Je souhaite développer des solutions d’IA en production et optimiser les workflows analytiques.
+
+COMPÉTENCES
+- Data engineering : pipelines ETL, orchestrations (Airflow)
+- Outils : TensorFlow, PyTorch, Spark, Hadoop, Tableau
+- Modélisation : régression, classification, clustering
+
+PROJETS
+Mise en place d'un pipeline Big Data (Kafka, Spark, HDFS)

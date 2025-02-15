@@ -1,0 +1,32 @@
+Lucas Bernard
+Ingénieur Logiciel Full Stack
+
+FORMATION
+Ingénieur en Informatique - INSA Lyon (2021-2024)
+• Développement web et mobile
+• Architecture logicielle
+• DevOps et Cloud
+
+EXPÉRIENCE
+Stage Développeur Full Stack - Capgemini (2024)
+• Développement d'applications web React/Node.js
+• Mise en place de CI/CD
+• Architecture microservices
+
+Développeur Backend - Startup EdTech (2023)
+• API REST avec Spring Boot
+• Base de données PostgreSQL
+• Tests unitaires et d'intégration
+
+COMPÉTENCES
+• Frontend: React, Vue.js, TypeScript
+• Backend: Node.js, Spring Boot, Django
+• BDD: PostgreSQL, MongoDB
+• DevOps: Docker, Kubernetes, Jenkins
+• Cloud: AWS, Azure
+• Testing: Jest, JUnit
+
+PROJETS
+• Application de gestion de projet agile
+• Plateforme e-commerce microservices
+• API REST pour application mobile

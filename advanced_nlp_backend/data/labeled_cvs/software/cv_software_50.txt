@@ -1,0 +1,21 @@
+Alice Martin
+9 Rue du Pont, 33000 Bordeaux - 07.22.33.44.55 - example@hotmail.fr - https://github.com/candidat123
+
+FORMATION
+Licence Informatique - Université de Bordeaux (2020-2023)
+
+EXPÉRIENCES PROFESSIONNELLES
+Projet Freelance - Création d’une application mobile (2022)
+- Stack Flutter / Firebase
+- Authentification et push notifications
+
+OBJECTIF
+Souhaite participer au développement d’applications web complexes et scalables.
+
+COMPÉTENCES
+- Méthodes : Agile/Scrum, TDD, Clean Code
+- Langages : Java, C++, Python, JavaScript
+- Outils : Docker, Kubernetes, Git, Jenkins
+
+PROJETS
+Système de recommandation d’articles (Python, REST API)

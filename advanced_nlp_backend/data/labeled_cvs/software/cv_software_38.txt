@@ -1,0 +1,22 @@
+Alice Martin
+12 Rue de la Paix, 75002 Paris - 06.55.44.12.90 - personnel@outlook.com - https://www.linkedin.com/in/candidat123
+
+FORMATION
+Master Ingénierie Logicielle - Université de Grenoble (2023-2025)
+Conception orientée objet, architectures distribuées
+
+EXPÉRIENCES PROFESSIONNELLES
+Projet Freelance - Création d’une application mobile (2022)
+- Stack Flutter / Firebase
+- Authentification et push notifications
+
+OBJECTIF
+Souhaite participer au développement d’applications web complexes et scalables.
+
+COMPÉTENCES
+- Frameworks : Spring Boot, Django, React, Node.js
+- Outils : Docker, Kubernetes, Git, Jenkins
+- Langages : Java, C++, Python, JavaScript
+
+PROJETS
+Application mobile cross-platform (Flutter, Firebase)

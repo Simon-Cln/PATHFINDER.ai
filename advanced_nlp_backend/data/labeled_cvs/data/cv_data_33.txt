@@ -1,0 +1,22 @@
+Emilie Garnier
+75 Rue Saint-Michel, 13006 Marseille - 07.98.76.54.32 - personnel@outlook.com - https://www.linkedin.com/in/candidat123
+
+FORMATION
+Licence Mathématiques & Informatique - Université de Lille (2020-2023)
+
+EXPÉRIENCES PROFESSIONNELLES
+Stage Data Analyst - Capgemini (06/2024 - 12/2024)
+- Analyse de gros volumes de données (Spark, Hadoop)
+- Création de dashboards Power BI
+- Optimisation de requêtes SQL
+
+OBJECTIF
+Recherche un stage de fin d’études en Data Science pour appliquer mes compétences en machine learning et data engineering.
+
+COMPÉTENCES
+- Langages : Python, R, SQL
+- Data engineering : pipelines ETL, orchestrations (Airflow)
+- Outils : TensorFlow, PyTorch, Spark, Hadoop, Tableau
+
+PROJETS
+Mise en place d'un pipeline Big Data (Kafka, Spark, HDFS)

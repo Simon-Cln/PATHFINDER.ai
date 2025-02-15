@@ -1,0 +1,66 @@
+data science
+machine learning
+deep learning
+intelligence artificielle
+analyse de données
+python
+tensorflow
+pytorch
+scikit-learn
+pandas
+numpy
+keras
+spark
+hadoop
+tableau
+power bi
+statistiques
+nlp
+computer vision
+neural networks
+classification
+clustering
+regression
+cybersécurité
+sécurité informatique
+pentest
+ethical hacking
+security analyst
+information security
+kali linux
+wireshark
+metasploit
+nmap
+burp suite
+forensics
+cryptographie
+firewall
+vulnerability
+incident response
+malware
+développeur
+software engineer
+full stack
+backend
+frontend
+devops
+architecte logiciel
+développement web
+mobile developer
+java
+javascript
+python
+c++
+react
+angular
+node.js
+spring
+git
+docker
+kubernetes
+aws
+microservices
+api
+rest
+agile
+ci/cd

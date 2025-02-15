@@ -1,0 +1,41 @@
+Etudiant en Data & AI (M2 EFREI)
+
+Sophie Martin[Adresse] - [Téléphone] - [Email] - [LinkedIn/GitHub]
+
+FORMATION
+
+Master 2 - Data & AI - EFREI Paris (2023-2025)
+
+Machine learning, deep learning, data engineering, NLP
+
+Licence - Informatique - EFREI Paris (2020-2023)
+
+EXPÉRIENCES PROFESSIONNELLES
+
+Stage de M1 - Data Scientist - VEOLIA (06/2024 - 12/2024)
+
+Analyse et modélisation de données massives
+
+Développement de modèles de classification avec TensorFlow et Scikit-learn
+
+Optimisation de modèles et interprétabilité avec SHAP
+
+OBJECTIFEn dernière année de Master Data & AI, je suis à la recherche d'un stage de fin d'études en data science pour appliquer mes compétences en modélisation et en intelligence artificielle sur des problématiques concrètes.
+
+COMPÉTENCES
+
+Langages : Python, SQL, R
+
+Frameworks : TensorFlow, PyTorch, Scikit-learn
+
+Bases de données : PostgreSQL, MongoDB, BigQuery
+
+Outils : Spark, Hadoop, Docker
+
+Méthodologies : MLOps, Data Engineering
+
+PROJETS
+
+Système de recommandation basé sur le deep learning (PyTorch, Flask, React)
+
+Analyse de sentiments sur les réseaux sociaux (NLTK, Spacy, Pandas)

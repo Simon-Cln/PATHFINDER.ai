@@ -1,0 +1,23 @@
+Sophie Moreau
+9 Rue du Pont, 33000 Bordeaux - 06.89.12.45.67 - personnel@outlook.com - https://www.linkedin.com/in/candidat123
+
+FORMATION
+Bachelor Développement Web - EEMI (2019-2022)
+
+
+EXPÉRIENCES PROFESSIONNELLES
+Stage Développeur Full-Stack - Société Générale (06/2024 - 12/2024)
+- Développement d’API REST en Java Spring
+- Frontend en React.js
+- Mise en place CI/CD (Jenkins)
+
+OBJECTIF
+Souhaite participer au développement d’applications web complexes et scalables.
+
+COMPÉTENCES
+- Outils : Docker, Kubernetes, Git, Jenkins
+- Langages : Java, C++, Python, JavaScript
+- Méthodes : Agile/Scrum, TDD, Clean Code
+
+PROJETS
+Développement d'un microservice de paiement (Java Spring, Docker, MySQL)
