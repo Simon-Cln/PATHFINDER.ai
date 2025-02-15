@@ -1,4 +1,4 @@
-<img src="https://github.com/Simon-Cln/PATHFINDER.ai/raw/main/pathfindemo.gif" width="800"/>
+<img src="https://github.com/Simon-Cln/PATHFINDER.ai/raw/main/demo (2).gif" width="800"/>
 
 # PathFinder.ai
 
