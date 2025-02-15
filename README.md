@@ -1,3 +1,5 @@
+<img src="https://github.com/Simon-Cln/PATHFINDER.ai/raw/main/pathfindemo.gif" width="800"/>
+
 # PathFinder.ai
 
 > **Empowering EFREI students** to find internships that match their CV and aspirations.  
@@ -57,11 +59,9 @@
   _(Could also integrate Python for advanced NLP services)_  
 
 ### NLP / AI Tools
-- **spaCy** / **HuggingFace** / **GPT** (or any other NLP library you prefer)
+- **spaCy** / **HuggingFace**
 
-### Database
-- **MongoDB** or **PostgreSQL** (depending on your storage preference)
-
+  
 ---
 
 ## Installation & Setup
@@ -71,4 +71,3 @@
    ```bash
    git clone https://github.com/Simon-Cln/PATHFINDER.ai.git
    cd PATHFINDER
-
