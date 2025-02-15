@@ -1,0 +1,15 @@
+@font-face {
+  font-family: 'PP Mori';
+  src: url('/PP Mori - Free for Personal Use v1.0/PPMori-Regular.otf') format('opentype');
+  font-weight: normal;
+  font-style: normal;
+  font-display: swap;
+}
+
+@font-face {
+  font-family: 'PP Mori';
+  src: url('/PP Mori - Free for Personal Use v1.0/PPMori-SemiBold.otf') format('opentype');
+  font-weight: 600;
+  font-style: normal;
+  font-display: swap;
+}
